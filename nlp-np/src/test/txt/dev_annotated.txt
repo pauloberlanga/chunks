@@ -1,0 +1,2040 @@
+CF775-1 : --------------------------------------------------------
+A : [-       -   X -         ]
+S : [Técnico não é enfermeiro]
+T : []
+CF775-3 : --------------------------------------------------------
+A : [-          X -   -          -      -      -    -    X        - -     -        -  -          -]
+S : [Enfermeiro é uma designação válida apenas para quem concluiu o curso superior de enfermagem .]
+T : []
+CF775-4 : --------------------------------------------------------
+A : [-  -      -             -  - -    X   -        - -          - -          -]
+S : [Os outros profissionais de a área são técnicos , auxiliares e atendentes .]
+T : []
+CF775-5 : --------------------------------------------------------
+A : [- -       X   - -       -    -        X    X     -     - -     -       -  -          -  -     -  -        -  -       -]
+S : [O técnico tem o segundo grau completo pode optar entre o curso técnico de enfermagem ou curso de formação de técnico .]
+T : []
+CF776-1 : --------------------------------------------------------
+A : [- -  -       -  - -            X   -  -            -  - -       -]
+S : [« Os limites de a privatização são as necessidades de o governo .]
+T : []
+CF776-2 : --------------------------------------------------------
+A : [-    X    -        - - X       -       -     -]
+S : [Nada está excluído » , afirmou Montoro Filho .]
+T : []
+CF776-3 : --------------------------------------------------------
+A : [-    -   - - -            X       -     - -     -  -      -        -   -     -  -        -]
+S : [Para ele , a privatização entende desde a venda de ativos públicos até ações de estatais .]
+T : []
+CF776-4 : --------------------------------------------------------
+A : [X     -   - -       X   X      - -     -         -   -            -         -  -        -  -       -        - -]
+S : [Disse que o governo vai vender « desde automóvel até participação acionária em empresas de energia elétrica » .]
+T : []
+CF776-5 : --------------------------------------------------------
+A : [- -        -  -  -      X    X   X         -      -    - -         -  - -      -  - -       -]
+S : [O dinheiro de as vendas pode ser utilizado também para o pagamento de a dívida de o Banespa .]
+T : []
+CF777-1 : --------------------------------------------------------
+A : [- -    - -       - -     -   - -    X     - -            - - -    - -  -         -  -      - -]
+S : [E tudo , segundo a Jovem Pan , para fazer « proselitismo » , para « as promessas de sempre » .]
+T : []
+CF777-3 : --------------------------------------------------------
+A : [-        -        X        -  - -     - -  - -         X       -   -   X      -    -      - -   -    -]
+S : [Fernando Henrique apareceu em o rádio e em a televisão dizendo que não existe nada contra o seu vice .]
+T : []
+CF777-4 : --------------------------------------------------------
+A : [- -   - -        - -   X     -  -   -     -  -         -        -]
+S : [E que , portanto , nem pensa em uma troca de Guilherme Palmeira .]
+T : []
+CF777-5 : --------------------------------------------------------
+A : [-   -      -   X        -   -      -  -    - -  - -      -  -  -         -      -    -     -     -]
+S : [Uma defesa bem parecida com aquela de Lula , em o começo de as denúncias contra José Paulo Bisol .]
+T : []
+CF778-1 : --------------------------------------------------------
+A : [- -   X        -   -         -        - -   -   X   -          -    X        - -      -  -       -  -  -         - - X       -]
+S : [« Não tínhamos uma segurança exemplar , mas ela era suficiente para permitir o alvará de licença de os bombeiros » , afirmou .]
+T : []
+CF778-2 : --------------------------------------------------------
+A : [-       -   - - -      X   X        - -   -    - -   -  X      -]
+S : [Segundo ele , o alvará foi queimado , com tudo o que se perdeu .]
+T : []
+CF778-3 : --------------------------------------------------------
+A : [-       -   X     X     -  -  -        -  -  -       X       X     -      -           -]
+S : [Taranto não soube dizer se os parentes de as vítimas poderão pedir alguma indenização .]
+T : []
+CF779-1 : --------------------------------------------------------
+A : [-       X      -        -  -       -  - - ]
+S : [Justiça impede exibição de desenho em a TV]
+T : []
+CF779-3 : --------------------------------------------------------
+A : [- -   -   X      -     - -       -       - -      - -         - -   -            -  -       X        -   - -    -       -  -        - -         - -  -   -     -]
+S : [A MTV não exibiu ontem o desenho animado « Beavis e Butt-Head » por determinação de liminar expedida por a Vara Central da Infância e Juventude , em São Paulo .]
+T : []
+CF779-4 : --------------------------------------------------------
+A : [-     -   - -     - -       -  -   - - -       - X       X  - - -  - - -        X          -   -         -  -           -]
+S : [Entre 20h e 20h30 , horário em que o « cartoon » costuma ir a o ar , a emissora transmitiu uma sequência de videoclipes .]
+T : []
+CF779-5 : --------------------------------------------------------
+A : [-     - X        -     - -         -  - -       -  -  -          -  -  -        -]
+S : [Antes , informou sobre a proibição de a Justiça em um comunicado de 15 segundos .]
+T : []
+CF780-1 : --------------------------------------------------------
+A : [-  -       -     -  X        -  -      -          -    X      -  -  -     -        -        -        -  -      - -      -         -]
+S : [Os nativos ainda se utilizam de lanças primitivas para pescar em as rasas piscinas naturais repletas de polvos e peixes tropicais .]
+T : []
+CF780-2 : --------------------------------------------------------
+A : [-   X  - -     -         -  -    X          -   -      -          -  -      -          - -        -  -      - -    -        -  -           -  -   -        -   X     -   -   -  -       -]
+S : [Mas há a pesca comercial de atum controlada por norte- americanos de origem portuguesa , chineses de Taiwan e sul- coreanos em embarcações de 1,2 tonelada que valem até US$ 13 milhões .]
+T : []
+CF781-1 : --------------------------------------------------------
+A : [- -           - X     -        -  -  -  ]
+S : [' Astronautas ' fazem autópsia em os EUA]
+T : []
+CF781-2 : --------------------------------------------------------
+A : [-            -  -        -  -         - -          - X       X   X      -      -         -    X         -     -  -   -      -   X     -        -       -  - -      - -      - -      -  X   X        -]
+S : [Patologistas de hospital de Riverside ( Califórnia ) tiveram que vestir roupas especiais para autopsiar corpo de uma mulher que teria químicos tóxicos em o sangue , porque o cheiro os fez desmaiar .]
+T : []
+CF782-1 : --------------------------------------------------------
+A : [-       X          -  -      -       -  - -      -          - -      -  -]
+S : [Cristou representa os clubes alemães de o Bayern Leverkusen e Shalk- 04 .]
+T : []
+CF782-2 : --------------------------------------------------------
+A : [- -          X     -   X        X   -      -      -         -           - -     -    -    - -  - -   -     - -          - -  - -        - - -         - -  - -     -     -]
+S : [O empresário disse que pretende ver também outros jogadores brasileiros , entre eles Cafu , de o São Paulo , Mirandinha , de o Paysandu , e Claudinho , de a Ponte Preta .]
+T : []
+CF783-1 : --------------------------------------------------------
+A : [- -    X      -  -   - -        - - -    - -        -  -  -     -         -      - -    -  - -      - -  -    X         - - -  -       -]
+S : [O caso nasceu de uma « vendetta » , obra e desgraça de um certo Francesco Farina , dono de o Modena , um time rebaixado a a 3ª divisão .]
+T : []
+CF783-2 : --------------------------------------------------------
+A : [-      X      X      - -      -  - -        - -  - -       -]
+S : [Farina tentou salvar o Modena em a política e em o tapetão .]
+T : []
+CF783-3 : --------------------------------------------------------
+A : [-          - -   X         -]
+S : [Obviamente , não conseguiu .]
+T : []
+CF783-4 : --------------------------------------------------------
+A : [-   -    - X         -       -         - -          -  - -         -]
+S : [Por isso , metralhou Antonio Matarrese , presidente de a federação .]
+T : []
+CF783-5 : --------------------------------------------------------
+A : [-      X      -  -      -  X         -        -   - -            -  - -         -]
+S : [Farina acusou os clubes de sonegarem impostos com a cumplicidade de a federação .]
+T : []
+CF783-6 : --------------------------------------------------------
+A : [-    X           - -     -  -  -    -         - -   X          -  -    -          -  -    -      -          - - -  -             -  -    - -  -     -]
+S : [Para multiplicar o porte de as suas denúncias , ele apresentou as suas perorações em dois sítios diferentes , a as procuradorias de Roma e de Milão .]
+T : []
+CF783-7 : --------------------------------------------------------
+A : [-      -  -    X   -              - -           - -   -            -]
+S : [Muitas de elas são inconsequentes , improváveis , sem documentação .]
+T : []
+CF783-8 : --------------------------------------------------------
+A : [-  -    -    - -  - -    - - - -       X    - -      -  X          - -     -  -         X      -]
+S : [De todo modo , em a Bota , a a Justiça cabe a missão de investigar , antes de meramente julgar .]
+T : []
+CF783-9 : --------------------------------------------------------
+A : [-      -         - -          -  - -       - -         X       - -   - -   -      -   X      - - X      -   -         - -  -     -  -  -    -  -      -    - -  - X         -  -      -         - -  -       -               - - -          -  -  -        -]
+S : [Gloria Attanasio , magistrada de a capital , meramente decidiu o que a sua função lhe exigia , e enviou 250 detetives a as sedes de os tais 34 clubes para , lá , coletarem os livros contábeis e os recibos correspondentes a o versamento de os impostos .]
+T : []
+CF784-1 : --------------------------------------------------------
+A : [-    - -          -  - -     X     X          -   -         -  -     - -        -]
+S : [Para a construção de o palco foram utilizadas 170 toneladas de ferro e alumínio .]
+T : []
+CF784-2 : --------------------------------------------------------
+A : [- -          -  -     X     -    X         -   -      -      - -  -       -]
+S : [A quantidade de ferro daria para construir 180 carros iguais a um Santana .]
+T : []
+CF784-3 : --------------------------------------------------------
+A : [- - -      -  -        X     -    X     -   -   -     -  -            -]
+S : [E o volume de alumínio daria para fazer 275 mil latas de refrigerante .]
+T : []
+CF784-4 : --------------------------------------------------------
+A : [- -     X   X      -   -    -       - -           -   - -        -  - -     -  - -      -     -  -  -      - -     -      - - -  - -    -    -  - -    -     - -  - -          -     -  - -     -        -  -]
+S : [O palco foi criado por Mark Fischer , responsável por a montagem de o palco de a última turnê de os Stones « Steel Wheels » , de o novo show de o Pink Floyd e de o espetáculo ZooTV de o grupo irlandês U2 .]
+T : []
+CF785-1 : --------------------------------------------------------
+A : [-      -  - -            - -     -  -      X      -  -    -       -        -    - -          -  -         - -   X      X X   X          -   -         -      X       - - -          -    -     -]
+S : [Apesar de a popularidade , Chico de Miguel perdeu as duas últimas eleições para a Prefeitura de Itabaiana , que passou a ser controlada por políticos locais ligados a o governador João Alves .]
+T : []
+CF785-2 : --------------------------------------------------------
+A : [-   X       -  -        - - -          - X       -  X        -    -          -]
+S : [Ele atribui as derrotas a o Judiciário , acusado de auxiliar seus opositores .]
+T : []
+CF785-3 : --------------------------------------------------------
+A : [-   X       -    - -   X       -   -   X   X      - -       -       -  -         -]
+S : [Não explica como , mas garante que não vai perder a próxima eleição em Itabaiana .]
+T : []
+CF785-4 : --------------------------------------------------------
+A : [- -        X      -   X   -  -     -    -]
+S : [O deputado afirma não ser um homem rico .]
+T : []
+CF785-5 : --------------------------------------------------------
+A : [- -    - X     -  -   -       - -     -    -  -   -       -  -    -]
+S : [« Hoje , tenho só uma fazenda e pouco mais de 500 cabeças de gado .]
+T : []
+CF785-6 : --------------------------------------------------------
+A : [-   -    -   X     X       -      -  -     -    - -    - -   X      -        - -     - -        -      X    X          -]
+S : [Mas tudo que ganho reverto também em ajuda para o povo , que recebe remédios , feira e dinheiro quando está precisando .]
+T : []
+CF785-7 : --------------------------------------------------------
+A : [-     X   -       - - X      -]
+S : [Nunca fui egoísta » , afirma .]
+T : []
+CF786-2 : --------------------------------------------------------
+A : [-      -          X       -       -          - -   -   X   X          -   - -         -]
+S : [Outros institutos mostram números diferentes , mas não são divulgados por a televisão .]
+T : []
+CF787-2 : --------------------------------------------------------
+A : [- -    -  -           - -           - -     X      - - -          -  -        - X    X             -  -       -    - -         -  -          - -      -  -       -]
+S : [A Liga de Assistência e Recuperação , órgão ligado a a Prefeitura de Salvador , está desenvolvendo um projeto para a confecção de brinquedos a partir de sucatas .]
+T : []
+CF787-3 : --------------------------------------------------------
+A : [-        -  -  - -  -    X   X        - X           -       -  -          -          -]
+S : [Crianças de 11 a 14 anos vão aprender a transformar sucatas em brinquedos educativos .]
+T : []
+CF787-5 : --------------------------------------------------------
+A : [- -          -  -     -  - -       X        -   -    -      X    -     -  -     -        -           -   X         -  - -  -         -       -  - -      -        -  -              - X         -  -  -]
+S : [A Secretaria de Saúde de a Paraíba informou que João Pessoa está entre as cinco capitais brasileiras que atingiram 90 % de cobertura vacinal em a última campanha de multivacinação , realizada em 90 .]
+T : []
+CF787-6 : --------------------------------------------------------
+A : [-  -    -   - - -          X      X       -     -  -   -   -        -]
+S : [Em este ano , a secretaria espera vacinar cerca de 480 mil crianças .]
+T : []
+CF788-1 : --------------------------------------------------------
+A : [-      X    -         -     - -     ]
+S : [Rússia veta documento sobre a Bósnia]
+T : []
+CF788-2 : --------------------------------------------------------
+A : [-      X     -   -           -     -         -        X          - -      -   X          -        -      ]
+S : [Moscou exige que conferência sobre segurança européia recompense a Sérvia por pressionar sérvios- bósnios]
+T : []
+CF788-4 : --------------------------------------------------------
+A : [- -      X     -         -  - -           -     -         - -          -  -      -     - -   -         -         -  - -      -]
+S : [A Rússia vetou documento de a Conferência sobre Segurança e Cooperação na Europa sobre a ex- república iugoslava de a Bósnia .]
+T : []
+CF788-5 : --------------------------------------------------------
+A : [- -    X       - -          -   X     - -  -       -  - -      -   X        -       -  - -       -         -  -     -]
+S : [O veto impediu a declaração que pedia a os sérvios de a Bósnia que parassem ataques em o encrave muçulmano de Bihac .]
+T : []
+CF788-6 : --------------------------------------------------------
+A : [- -       X        -     -  -         -]
+S : [A reunião terminou ontem em Budapeste .]
+T : []
+CF789-1 : --------------------------------------------------------
+A : [- -  - -     -  - -      X   X          -   - -      -  - -         - - -       X    -  -  - - -  - -  - -      - - X   -    -]
+S : [« Se o preço de o ônibus for convertido por a tabela de a montadora , o impacto será de 10 % a 12 % em a tarifa » , diz Dias .]
+T : []
+CF789-2 : --------------------------------------------------------
+A : [-  -       -  -  -          - -       -   - X     -  - -     -  - -     -  -       -]
+S : [As tabelas de as montadoras , segundo ele , estão 40 % acima de o preço de mercado .]
+T : []
+CF789-3 : --------------------------------------------------------
+A : [- -     -  X   -  -      -       X     -  - -       -]
+S : [O Fórum já tem os preços máximos pagos em o mercado .]
+T : []
+CF790-2 : --------------------------------------------------------
+A : [-     -  - -       - - -         -          X         -  -  -     -  -       -   X   -      -   -  - -  - -      -]
+S : [Antes de o Mundial , a delegação brasileira participa de os Jogos da Amizade que têm início dia 23 , em a Rússia .]
+T : []
+CF798-1 : --------------------------------------------------------
+A : [-   -  X     -   -    -       -            X     -   - -  -]
+S : [Não se pense que esta ruptura modernizante passa por o PT .]
+T : []
+CF798-2 : --------------------------------------------------------
+A : [- -       X -  -          -           - -   -  -  X      -     -   - -           -  -       -  -    -]
+S : [O partido é um aglomerado heterogêneo , que só se mantém unido por a perspectiva de vitória de Lula .]
+T : []
+CF798-3 : --------------------------------------------------------
+A : [-     -        - -       -    - -        -     -     - -       -  -     X        -  -            -       -  -  -       -           -  - -  - -   - -         -  -   X          - -       -  - -       - -    -     -   - -       -  X       -    X       - -     -]
+S : [Teses modernas e sociais como o controle civil sobre o sistema de saúde esbarram em resistências enormes de os setores hegemônicos de o PT , sob o argumento de que amarrariam a atuação de o governo , logo agora que o partido se prepara para assumir o poder .]
+T : []
+CF798-4 : --------------------------------------------------------
+A : [-        X     -   -   - -             -  - -               -   -         - -  -   -       -      -    -    - -  -     -  - -       -     - -  -            - -      -       - X           -  -      -            -     -   -      -]
+S : [Tampouco passa por FHC , representante de a contemporização bem explicada , ou por Antonio Britto cujo voto , em favor de a anistia total a os agricultores , semana passada , ressuscitou os piores prognósticos sobre seu estilo .]
+T : []
+CF799-1 : --------------------------------------------------------
+A : [- -         X     X       - -        -  - -     - X      -  -  -     - -  -   -      - X        -  - -   -     -    -      -        -]
+S : [O motorista teria perdido o controle de o carro , batido em um Monza e em uma árvore e capotado em a rua Enéas Luiz Carlos Barbante .]
+T : []
+CF799-2 : --------------------------------------------------------
+A : [-     -     -     -        - -  - X    X         -  -      -     -  - -        -  -        -]
+S : [Maria Elisa Flora Demarchi , 15 , está internada em estado grave em o Hospital do Mandaqui .]
+T : []
+CF800-1 : --------------------------------------------------------
+A : [- - -      X       -    X     - -   X        -  - -      -       - -  - -         -]
+S : [« O boneco servirá para criar o que chamamos de ' efeito auréola ' em o motorista .]
+T : []
+CF800-2 : --------------------------------------------------------
+A : [-         X         -   -      - -         X  - -            -   X     - -          -   -    -     -    -           - - X   -       -]
+S : [Pesquisas comprovam que quando o motorista vê a fiscalização ele reduz a velocidade por pelo menos três quilômetros » , diz Lehfeld .]
+T : []
+CF800-3 : --------------------------------------------------------
+A : [- -      X   X   X        -  -      -   -                -]
+S : [O boneco vai ser colocado em locais sem congestionamento .]
+T : []
+CF800-4 : --------------------------------------------------------
+A : [X   - X         - -  -  -  - -  -     - -         -  -  -      -  -      -]
+S : [Vai « trabalhar » de as 7h a as 17h30 , inclusive em os finais de semana .]
+T : []
+CF800-5 : --------------------------------------------------------
+A : [- -           -  -    -      -     -   X   X        -]
+S : [A permanência em cada cabine ainda não foi definida .]
+T : []
+CF801-1 : --------------------------------------------------------
+A : [-     X         -    -     -    - -        - - -       -  - -     - - -         -  -     -  -        -            - -   -       -  -    - -     - -    -    - - - -       -  - -  -        -      - - -  -    - -    -     - - - -             -  - -        -  - -        -    - -   -]
+S : [Perry descreveu três fases para a operação : a entrada em o Haiti e a conquista de todas as posições estratégicas ( com duração de seis a horas a dois dias ) , a criação de « um ambiente seguro » ( de três a seis meses ) e a transferência de o controle de a situação para a ONU .]
+T : []
+CF801-2 : --------------------------------------------------------
+A : [- -          -    -       X      - -     -     -  - -   -  -     -  -        -   -    -          -         - -  -         -        -  - -    -      -]
+S : [O presidente Bill Clinton passou a maior parte de o dia de ontem em reuniões com seus assessores militares e de segurança nacional em a Casa Branca .]
+T : []
+CF802-1 : --------------------------------------------------------
+A : [-       -     X    -    -  -   - -        X       -    ]
+S : [Francis Bacon vira nome de bar e Lanterna estréia pista]
+T : []
+CF802-2 : --------------------------------------------------------
+A : [-        -           X      - -      - -  -     -  - -     ]
+S : [Artistas brasileiros expõem « covers » de telas de o pintor]
+T : []
+CF802-4 : --------------------------------------------------------
+A : [-    -        - -         X        -     -      -        -  -    -      -]
+S : [Vila Madalena e Pinheiros ganharam novas opções noturnas em esta semana .]
+T : []
+CF802-5 : --------------------------------------------------------
+A : [- -   - -           -        X         -  - -      -     -  -      -    -      -]
+S : [O bar e restaurante Lanterna inaugurou em a terça- feira um espaço para dançar .]
+T : []
+CF802-6 : --------------------------------------------------------
+A : [-     - -      -     - -       - - -     -  - -           -            -    X   -  -   -   -   -  -  -   -    - -       - -    -]
+S : [Agora o jardim entre a galeria e o salão de o restaurante propriamente dito tem um bar com som de os DJs Bidi , Bartolo e Hori .]
+T : []
+CF803-2 : --------------------------------------------------------
+A : [- -        -  -  -        -        - -          -    -       - -    -       -  -   -     - X     -  - -   - -  -        -  -  -]
+S : [O trânsito em as avenidas Paulista e Brigadeiro Luís Antônio ( zona central de São Paulo ) parou em o dia 9 de setembro de 86 .]
+T : []
+CF803-3 : --------------------------------------------------------
+A : [- -          -      -         -  -    - -  - -     -   -  -    - - -      -  X        -   - -     - X    -  - -     - X     -  - -    - X     -  -      - X        -]
+S : [O aposentado Eliseu Francisco de Lyra ( em a época com 44 anos ) , depois de discutir com o irmão , saiu de o carro , subiu em o capô , tirou as roupas e sapateou .]
+T : []
+CF804-1 : --------------------------------------------------------
+A : [- -  - -         -             -   -    -  -   -      -  -       - X        - -         -     -  -   -     -]
+S : [A AI , organismo internacional com mais de 1,1 milhão de membros , divulgou o documento ontem em São Paulo .]
+T : []
+CF804-2 : --------------------------------------------------------
+A : [- -         - -         - - -   -  -    - -      X       - -          -  -  -        -   -  -         -  - -         - -       -  -  - - -  - -          - -     -  -  - - -  -       -     - -      -  -  - -]
+S : [O relatório , referente a o ano de 1993 , também destaca a impunidade de os acusados por os massacres de o Carandiru ( outubro de 92 ) , de a Candelária ( julho de 93 ) e de Vigário Geral ( agosto de 93 ) .]
+T : []
+CF805-1 : --------------------------------------------------------
+A : [- -     -   -  - -      -  X    X        -       -]
+S : [O apelo pop de o evento já está causando reações .]
+T : []
+CF805-2 : --------------------------------------------------------
+A : [-      X   -   -   - -          - -      -      -       -      X          -      -  X        - - -    -  -      - -  -    -        -     - -  -   -     -]
+S : [Ohtake diz que até o compositor e cantor baiano Caetano Veloso manifestou desejo de assistir a o show de Nusrat , em esta segunda- feira , em São Paulo .]
+T : []
+CF805-3 : --------------------------------------------------------
+A : [- -  -     -  -        X   X      X   -  -         - - X   -      -]
+S : [« Um monte de artistas vai querer ver os concertos » , diz Ohtake .]
+T : []
+CF805-4 : --------------------------------------------------------
+A : [- -          X      - -        -  - -       -]
+S : [O secretário espera a resposta de o público .]
+T : []
+CF805-5 : --------------------------------------------------------
+A : [- -    -       -  -      -       X -               - - X       -]
+S : [« Toda platéia de música erudita é tradicionalista » , explica .]
+T : []
+CF805-7 : --------------------------------------------------------
+A : [- -       -  -  X -            X        -  -      -  - -      -  -]
+S : [O público de lá é extremamente treinado em música de o século 19 .]
+T : []
+CF805-8 : --------------------------------------------------------
+A : [-  X      X -            -      X        -   X    -    - -]
+S : [Se reagir é interessante porque mostrará que está vivo . »]
+T : []
+CF806-1 : --------------------------------------------------------
+A : [-    -   X -     -           X        -   -     -        -    -  -        -   X       - -      -  -   -     -       -]
+S : [Para mim é muito estimulante oferecer uma idéia espacial para um trabalho que começou a partir de uma idéia musical .]
+T : []
+CF806-2 : --------------------------------------------------------
+A : [-           - X - -   X     X     -   -  -       -   -  -     X        -]
+S : [Basicamente , é o que tenho feito com os músicos com os quais trabalho .]
+T : []
+CF806-3 : --------------------------------------------------------
+A : [- -   X     -      X    -   -           - -   X    -     -           -]
+S : [o que mudou talvez seja meu vocabulário , que está menos estruturado .]
+T : []
+CF806-4 : --------------------------------------------------------
+A : [- -        - - -       -    -  -          X   X           - -    X -         -]
+S : [A dinâmica , a maneira como os movimentos são construídos , hoje é diferente .]
+T : []
+CF807-1 : --------------------------------------------------------
+A : [- -   X     ]
+S : [O que evitar]
+T : []
+CF807-3 : --------------------------------------------------------
+A : [X        - -      - -   X      -       -  -    -   -  ]
+S : [Desanima o leitor , que recebe dezenas de eles por dia]
+T : []
+CF807-4 : --------------------------------------------------------
+A : [-  -   - -            X     X   X   -    - -         -    X         - -      -  - -            -]
+S : [2. Que o selecionador tenha que ler todo o currículo para descobrir o perfil de o profissional .]
+T : []
+CF808-1 : --------------------------------------------------------
+A : [- -       - X -  X    X   - - -  -         -  - -     -]
+S : [O crítico ( é $/ deve ser ) , um insolente de a razão ?]
+T : []
+CF808-2 : --------------------------------------------------------
+A : [-  - -       - -     -   X       - -     -     - X         - -   -      -  -   X    X   -  -           - X        - -   X    -        - -     X   -  -  -         -     -            -]
+S : [Um ( mecenas ) nobre que deifica o saber antes e mistifica o dar depois ou ele deve ser um iconoclasta , espalhar o que sabe enquanto o tempo faz de as novidades fatos descartáveis .]
+T : []
+CF808-3 : --------------------------------------------------------
+A : [X    -   -  -   -   X     - -       -         -       -  -  -        -   X       -   X   -    X     X          -]
+S : [Será que já não nos basta a humilde compulsão passiva de os leitores que aceitam nos ler para serem informados ?]
+T : []
+CF808-4 : --------------------------------------------------------
+A : [-   - -      -      X    -  X      -   - -      - - -           -   -   X -     -  X       -  -       -  - -   -     -]
+S : [Mas o leitor também sabe se vingar com o desdém e a indiferença com que é capaz de folhear as páginas de a sua busca .]
+T : []
+CF808-6 : --------------------------------------------------------
+A : [- -       X -  -    - -   -  -         -         -]
+S : [A notícia é um fato , não um exercício acadêmico .]
+T : []
+CF808-7 : --------------------------------------------------------
+A : [- -        -  - -    X    -  - -            -  - -   -           -    -    -      - -   -  - -      -         -   X     -   -   -          -]
+S : [A dimensão de o fato está em a relatividade de a sua importância para cada leitor e não em o espaço narcísico que ocupa sob uma assinatura .]
+T : []
+CF809-1 : --------------------------------------------------------
+A : [-  -        - X        -       -    - -       -         - -  - -            -  -       - -   X           - - X      -  -        X       -   -   -        -   -       -         X         -  - -     -       -     -       -]
+S : [Em Medicina , ganharam Richard Dart e Richard Gustafson , de a Universidade de Arizona , por fracassarem a o tratar um paciente mordido por uma cascavel com choques elétricos aplicados em o lábio durante cinco minutos .]
+T : []
+CF809-2 : --------------------------------------------------------
+A : [-  -      - X      - -       -             -        -   -  -      -  -    -    -     - -        -  -          X     X        -   -      X         -    -      -]
+S : [Em Física , ganhou a Agência Meteorológica Japonesa por um estudo de sete anos sobre a hipótese de terremotos serem causados por peixes rebolando suas caudas .]
+T : []
+CF810-1 : --------------------------------------------------------
+A : [-  - -         -  -     - -  -       X     X        - -         -   -      -  - -    - -   X       -   -     -]
+S : [Em a madrugada de ontem , os prédios foram vigiados a distância por homens de a Rota , que estavam sem farda .]
+T : []
+CF810-2 : --------------------------------------------------------
+A : [-       - -       - -    X     - -         -  - -         X   X        -  -  -  -  -       -  -  -   -]
+S : [Segundo o coronel , eles viram o armamento de a quadrilha ser retirado de um de os prédios em um Gol .]
+T : []
+CF810-3 : --------------------------------------------------------
+A : [-    -     X   X      -  - -      -  - -     -  -          -        - -    -   - -]
+S : [Esse carro foi achado em o início de a tarde em Engenheiro Marsilac ) zona sul ) .]
+T : []
+CF810-4 : --------------------------------------------------------
+A : [-   -        -  -     - -         - -  -      -  - -    X         -  -    -            -]
+S : [Com mandados de busca e apreensão , os homens de a Rota invadiram os três apartamentos .]
+T : []
+CF810-5 : --------------------------------------------------------
+A : [-   X     -        -]
+S : [Não houve tiroteio .]
+T : []
+CF810-6 : --------------------------------------------------------
+A : [-  -      -   - -       - - -       X         - -         -       -  -   -        -       -]
+S : [De acordo com o coronel , a polícia descobriu a quadrilha através de uma denúncia anônima .]
+T : []
+CF810-7 : --------------------------------------------------------
+A : [-  -  - -      -       -  - -  X     X      -    -  -        -  -      -         ]
+S : [Em 90 , quatro membros de o CV foram mortos após um tiroteio em Cidade Tiradentes]
+T : []
+CF811-2 : --------------------------------------------------------
+A : [-  -          -    -        X         X       - -          -             -     -  -       X        -   - -         -  X      - -  X        -  -      -      -  - -     -]
+S : [Os escritores aqui reunidos pretendem alertar a comunidade internacional sobre os ataques sofridos por a liberdade de pensar e de escrever em vários países de o mundo .]
+T : []
+CF811-3 : --------------------------------------------------------
+A : [-  -        -    -        - -        X   -  -  -       - -       -]
+S : [Os exemplos mais célebres e trágicos são os de Rushdie e Nasreen .]
+T : []
+CF811-4 : --------------------------------------------------------
+A : [- -     -        X -  -     -     - X     - -         -  X        -   -  -  -       -         -  - -     -           - -   X - -  - -         -  -         -]
+S : [O nosso protesto é de ordem moral , temos a obrigação de defender uma de as grandes tradições de a nossa civilização , que é a de a liberdade de expressão .]
+T : []
+CF811-6 : --------------------------------------------------------
+A : [X       X     -      -           - X     -       -        - -   -  -   X     -           -  ]
+S : [Podemos dizer coisas importantes , tomar grandes decisões , mas se não tiver repercussão ...]
+T : []
+CF811-7 : --------------------------------------------------------
+A : [-    X       -  - -          -   - -          X     X  X          -  -    -      - - -        - - - -     - - - -         -]
+S : [Tudo depende de a capacidade que o Parlamento tiver de transmitir as suas idéias a a imprensa , a o rádio e a a televisão .]
+T : []
+CF811-8 : --------------------------------------------------------
+A : [-   X   -  -  -           X     -           -  - -      -                -   X   -]
+S : [Não sei se os jornalistas estão conscientes de a grande responsabilidade que têm .]
+T : []
+CF812-1 : --------------------------------------------------------
+A : [-  -    -   -           -  X       -    -   -   -   -         -  -    -]
+S : [Os seus 100 quilômetros já levaram este ano 200 mil toneladas de soja .]
+T : []
+CF812-4 : --------------------------------------------------------
+A : [-   -   -   X        -   - -  X   -  -         -  - -        -     -   - X        -   - -           -  -   -          -]
+S : [Por que não publicar que o PT fez um seminário em o Nordeste sobre ela e concluiu por a necessidade de sua construção ?]
+T : []
+CF812-5 : --------------------------------------------------------
+A : [-    X -   -    -  - -      - -              -  - -         -  - -    -]
+S : [Esta é uma obra de o Brasil , transformadora de a estrutura de o país .]
+T : []
+CF813-1 : --------------------------------------------------------
+A : [-      X - -    -       -  - -       ]
+S : [Edinho é o novo técnico de o Flamengo]
+T : []
+CF813-2 : --------------------------------------------------------
+A : [- -   -       X       - -     -     -  -            - -         - X        -    - -       -    - -     - - - - - - -         -]
+S : [O ex- jogador assumiu o cargo ontem em substituição a Carlinhos , demitido após a derrota para o Bahia ( 0 a 1 ) , anteontem .]
+T : []
+CF813-3 : --------------------------------------------------------
+A : [- -  -        X      -    -    -  - -  - -   -  -   -   X            -  -  -  -     -]
+S : [« As torcidas partem para cima de a PM a fim de que nos concentremos em um só local .]
+T : []
+CF813-4 : --------------------------------------------------------
+A : [-     - -  X    -      -  - -            -    X     -       - -]
+S : [Assim , se abre espaço em a arquibancada para fumar maconha . »]
+T : []
+CF815-1 : --------------------------------------------------------
+A : [-     -  X           -   -         -       X     - -          -  -       -          -      -  -          - -  -         - -          - -       -  - -       -     - -   -      -  -      - -        -  - -         -     -      -]
+S : [Entre os denunciados por corrupção passiva estão o procurador de Justiça aposentado Aldegy do Nascimento , 26 delegados , inspetores e peritos de a Polícia Civil e Ary Chagas de Aguiar , assessor de a promotora Lúcia Atalla .]
+T : []
+CF815-2 : --------------------------------------------------------
+A : [-  -  -     X     -     -  -  -          - - -        -        X     -   - -          -       -  - -         -  - -     - -  -     -]
+S : [Os 38 nomes fazem parte de um aditamento a a primeira denúncia feita por o Ministério Público em o escândalo de o bicho , em junho .]
+T : []
+CF816-1 : --------------------------------------------------------
+A : [- -   -  -       X   X           -  - -        -     - - -     - -  - -   -]
+S : [O pai de Romário foi sequestrado em a segunda- feira a a noite , em o Rio .]
+T : []
+CF816-2 : --------------------------------------------------------
+A : [-  -              X        X        -   - -       - -     -  -   -   -       - -    X        -  -]
+S : [Os sequestradores estariam exigindo US$ 7 milhões ( cerca de CR$ 9,6 bilhões ) para libertá- lo .]
+T : []
+CF816-3 : --------------------------------------------------------
+A : [X       - - -       X       -   X        - -    -  -     - -  -     - -     - -  -  -   - -    - -   -   X    X         -]
+S : [Abalado , o jogador ameaçou não disputar a Copa do Mundo , em junho e julho , em os EUA , caso o pai não seja libertado .]
+T : []
+CF817-1 : --------------------------------------------------------
+A : [- -      -     -  -     -   X      -  -  -         - -         -  - -     - X       -             -  - -    -     -  -  -    -  -]
+S : [O sétimo filme de Spike Lee acerta em os figurinos e trejeitos de a época e resgata preciosidades de o soul negro de os anos 70 .]
+T : []
+CF817-2 : --------------------------------------------------------
+A : [-  -       X       -   -       - - -      -      - -    -       - -     -     - -      -  -    -     -]
+S : [As músicas incluem The Jackson 5 , Stevie Wonder , Jimi Hendrix , James Brown e outros 18 bons nomes .]
+T : []
+CF817-3 : --------------------------------------------------------
+A : [- -        X - -        -]
+S : [O problema é a história .]
+T : []
+CF817-4 : --------------------------------------------------------
+A : [-     -    X        -]
+S : [Quase nada acontece .]
+T : []
+CF817-5 : --------------------------------------------------------
+A : [X  -       -      -          -     -      - -     -  -         -        - -   -     -]
+S : [Há algumas brigas engraçadas entre irmãos , cenas de separação conjugal e uma morte .]
+T : []
+CF817-6 : --------------------------------------------------------
+A : [-  -       -         - X  -        -             - -      -]
+S : [Em algumas passagens , há diálogos intermináveis e vazios .]
+T : []
+CF817-7 : --------------------------------------------------------
+A : [-       - -      -        - -   -       - X     -  -     -     -     -    - -       X       -]
+S : [Durante o almoço familiar , por exemplo , fala- se muito sobre quase nada e ninguém mastiga .]
+T : []
+CF817-8 : --------------------------------------------------------
+A : [X   -       -      -]
+S : [Soa forçado demais .]
+T : []
+CF818-1 : --------------------------------------------------------
+A : [-   -  X    -     -    -           X      -]
+S : [Não se sabe ainda como Oosterbroek morreu .]
+T : []
+CF818-2 : --------------------------------------------------------
+A : [-   -     -   X     -      -  -     -]
+S : [Seu corpo não tinha marcas de tiros .]
+T : []
+CF818-3 : --------------------------------------------------------
+A : [-             -   X       - -       -      X       X     -  - -    -       -]
+S : [Aparentemente ele quebrou o pescoço quando tentava fugir de o fogo cruzado .]
+T : []
+CF818-4 : --------------------------------------------------------
+A : [- -       X        - -          -  -    -      -   X       X         -  - -     -  -  -      -  - -   -  -             -]
+S : [A polícia anunciou a libertação de seis homens que estavam trancados em o porão de um prédio de o CNA em Johannesburgo .]
+T : []
+CF818-5 : --------------------------------------------------------
+A : [-       - -      -   -  - -       - -    -     - -  -    X     X          -]
+S : [Segundo o porta- voz de a polícia , Dave Bruce , os seis foram torturados .]
+T : []
+CF819-1 : --------------------------------------------------------
+A : [- -        -        -      - -     -  - X     X           -  X         -   -      - -        -]
+S : [O deputado Adroaldo Streck ( PSDB- RS ) ficou encarregado de confirmar com Britto o encontro .]
+T : []
+CF819-2 : --------------------------------------------------------
+A : [-      -  X        - -      -   X -         - -   X     X  X        - -       -   - -    -      -]
+S : [Britto já informou a Streck que é favorável , mas ficou de discutir a questão com o PMDB gaúcho .]
+T : []
+CF820-1 : --------------------------------------------------------
+A : [-      X       -  - -    -  -     - -  -      -  - -       -]
+S : [Camila viajava em o colo de Dalva , na frente de o veículo .]
+T : []
+CF820-2 : --------------------------------------------------------
+A : [- -     -  -      X   X       -    -    -  - -     -]
+S : [O corpo de Camila foi lançado para fora de o carro .]
+T : []
+CF820-3 : --------------------------------------------------------
+A : [- -      X      -  - -    -]
+S : [A menina morreu em a hora .]
+T : []
+CF820-4 : --------------------------------------------------------
+A : [-     X     X         -     - -        -  - -        -  -   -     -]
+S : [Dalva seria submetida ontem a cirurgia em o hospital de São Paulo .]
+T : []
+CF820-5 : --------------------------------------------------------
+A : [- -      X       -    -    - -  -              - -      -  X          -  -         -  - -     -     - X   -      - -      -]
+S : [A famíla voltava para casa , em Americanópolis , depois de participar de casamento em a Barra Funda e deu carona a amigos .]
+T : []
+CF820-6 : --------------------------------------------------------
+A : [-      -     -       X       -       -]
+S : [Outras cinco pessoas ficaram feridas .]
+T : []
+CF822-1 : --------------------------------------------------------
+A : [-  -    X     -    ]
+S : [G. Love canta blues]
+T : []
+CF822-3 : --------------------------------------------------------
+A : [X       -]
+S : [Esqueça .]
+T : []
+CF822-4 : --------------------------------------------------------
+A : [-  -      - -   X       -      -     -  X   -     -     -   - -   X     X  X      X   -      X        - -    - -      -         -]
+S : [Ou melhor , não esqueça porque ainda se faz muita coisa boa , mas deixe de querer ser bacana citando- o como a última tendência .]
+T : []
+CF822-5 : --------------------------------------------------------
+A : [-    -      -      -           - X     -     -  - X    - -         - -     -   - -]
+S : [Para aquele verniz atualizador , passe desde já a usar a expressão « blues rap » .]
+T : []
+CF822-6 : --------------------------------------------------------
+A : [- - -    -  -      -     - X    -       -     -]
+S : [E , para um efeito extra , cite Special Sauce .]
+T : []
+CF822-7 : --------------------------------------------------------
+A : [-   -     -  -       - X       -  - -      -     -         - X      -     -  -      -       -  - -      -]
+S : [Seu álbum de estréia , lançado em o último verão americano , causou pouco ou nenhum impacto em a parada .]
+T : []
+CF822-8 : --------------------------------------------------------
+A : [-   -   -   -         -  -  -      -  -        -  -        -  -      -          X      - -          -        -   -  -    X         -     -  -           -              -]
+S : [Mas uma boa escavação em as seções de críticas de revistas de música importadas revela a verdadeira adoração que G. Love estimulou entre os jornalistas especializados .]
+T : []
+CF823-1 : --------------------------------------------------------
+A : [- -           -     -  - -           - -     -       - -      X   -       -         -]
+S : [O secretário- geral de a Presidência , Mauro Durante , também tem emprego garantido .]
+T : []
+CF823-2 : --------------------------------------------------------
+A : [-      X    X        -  -  - -        -        -  -        - -   - -   - -     -   -         -  -      - -   X      -]
+S : [Itamar quis encaixá- lo em o Tribunal Superior do Trabalho , mas a OAB ( Ordem dos Advogados do Brasil ) não deixou .]
+T : []
+CF823-3 : --------------------------------------------------------
+A : [- -          X         - -     - -     -        -  -       - - -      - -       -  -     - -       - -     -       - - -     X     - -   -   - X        - X   -       -  - -           -  - -        -]
+S : [O presidente articulou , então , lobby certeiro em direção a o Sebrae ( Serviço de Apoio à Pequena e Média Empresa ) e ainda pediu a FHC que o ajudasse a pôr Durante em a presidência de a entidade .]
+T : []
+CF824-1 : --------------------------------------------------------
+A : [-     -     X     -     -  - -     - -         -  -     -      -    - - X       -  - -   - -          -          -  -        - - -  - -   -  -       - -   - -   - -        -        -  -     - - -     -  - -      -]
+S : [Esses dados fazem parte de o livro « Conflitos no Campo Brasil 1993 » , lançado em a ABI ( Associação Brasileira de Imprensa ) , em o Rio de Janeiro , por a CPT ( Comissão Pastoral da Terra ) , órgão de a Igreja .]
+T : []
+CF824-2 : --------------------------------------------------------
+A : [X       -  - -     -  -       -            X            -  -     -  -  -       - -  -            -   -      X       - -         -  -     -]
+S : [Constam de o livro 15 quadros estatísticos relacionando os nomes de as vítimas e os responsáveis por crimes ligados a conflitos de terra .]
+T : []
+CF824-3 : --------------------------------------------------------
+A : [-  -      -  - -         -  - -     -      X   X          -]
+S : [As causas de a violência em o campo também são discutidas .]
+T : []
+CF825-1 : --------------------------------------------------------
+A : [- -       -         -  - -   -      X         - -           -  - -     -  -  -     -  - -      -    X          - -     -  -             -       -  -  -     -         -]
+S : [O diretor executivo de o FMI também enfatizou a necessidade de a queda de os juros em o Brasil para incentivar a volta de investimentos maciços em os setor produtivo .]
+T : []
+CF825-2 : --------------------------------------------------------
+A : [- -   -        -     -  - -     -  -  -             -        -   X          -  - -    -  -         -  - -     -    -       -  -  -      -      -     - -   - - -      - -         X     -   - -   X   X     - -    -  -     X    -   X -  -      -   - -   - -   - -             -       - -       -  - -     -    -]
+S : [A uma pergunta sobre se a volta de os investimentos externos não dependeria de o selo de aprovação de o Plano Real através de um acordo formal entre o FMI e o Brasil , Camdessus disse que o que vai fazer a taxa de juros cair não é um acordo com o FMI , mas a credibilidade interna e externa de o Plano Real .]
+T : []
+CF826-1 : --------------------------------------------------------
+A : [-         -  -  -     X      -           ]
+S : [Flutuação de os juros agrada instituições]
+T : []
+CF826-3 : --------------------------------------------------------
+A : [-      - -           X         -   - -         -     -  - -        -         -        -]
+S : [Bancos e financeiras receberam bem a resolução 2.071 de o Conselho Monetário Nacional .]
+T : []
+CF826-4 : --------------------------------------------------------
+A : [X       -      -     - -   X    - -    -  -    -         -]
+S : [Baixada sexta- feira , ela cria a taxa de juro flutuante .]
+T : []
+CF826-5 : --------------------------------------------------------
+A : [X    - -           -  -          -   -     -    -      -]
+S : [Abre a perspectiva de aplicações por prazo mais longos .]
+T : []
+CF826-6 : --------------------------------------------------------
+A : [- -    -        X       X         -              -  -     -  -     -  -  -          - -           -]
+S : [O juro flutante permite reavaliar periodicamente as taxas de juros de as aplicações e empréstimos .]
+T : []
+CF828-1 : --------------------------------------------------------
+A : [-          -  -      X     -      -         ]
+S : [Iniciativa de Moscou torna ataque improvável]
+T : []
+CF828-4 : --------------------------------------------------------
+A : [- -           -           -     X   -        -    X      - -            -         -  - -      -     -  - -      -]
+S : [A intervenção diplomática russa foi decisiva para evitar o envolvimento ocidental em a guerra civil em a Bósnia .]
+T : []
+CF828-5 : --------------------------------------------------------
+A : [- - -  X        -    X           - -        - - -      X   - -  -    -       -       - -             -  -   -        -       -]
+S : [A o se oferecer para intermediar o conflito , a Rússia deu a os seus aliados sérvios a possibilidade de uma retirada honrosa .]
+T : []
+CF828-6 : --------------------------------------------------------
+A : [-    -            X        - -      -  -       -      -  - -    -]
+S : [Isso praticamente eliminou a ameaça de ataques aéreos de a Otan .]
+T : []
+CF828-7 : --------------------------------------------------------
+A : [-    X - -         -  - -         -             -  -       -            -  -       - -    - - -  -  -  -    -           -       -  -        -       -  - -        -]
+S : [Essa é a avaliação de o Instituto Internacional de Estudos Estratégicos de Londres ( IIEE ) , um de os mais importantes centros de pesquisa militar de o Ocidente .]
+T : []
+CF828-8 : --------------------------------------------------------
+A : [- -  -      -     -   X   -    -       - -     -   -  -       X         X X      - - X     - - -     - -       -      -      - -  - -    -]
+S : [« Um ataque agora não faz mais sentido , desde que os sérvios continuem a recuar » , disse a a Folha o coronel Andrew Duncan , de o IIEE .]
+T : []
+CF829-1 : --------------------------------------------------------
+A : [- -         X -   -    -  - -       -      -  X   - - -   - -  - -         -  -        -]
+S : [O espantoso é que fora de a polícia também se viu o « mal » em o incidente de Cavalera .]
+T : []
+CF829-2 : --------------------------------------------------------
+A : [- -      -       - - -     - X        -           -     - - -      - -   X          -   -   - -       - X         -   -        -    -  -       -       - -      -  - -            -  -     - -  -   -          -  - -         -]
+S : [O jornal carioca « O Globo » recolheu depoimentos sobre a « pisada » não confirmada nem por a polícia e explicada por Cavalera como um simples tropeço , normal em a movimentação de palco , em seu depoimento em a delegacia .]
+T : []
+CF829-3 : --------------------------------------------------------
+A : [-     - -      -  - -     - X      -  - -         -  -   -      X   -  -     -  - -        - -]
+S : [Todos , contra ou a favor , partem de o princípio de que aquele foi um gesto de « protesto » .]
+T : []
+CF829-4 : --------------------------------------------------------
+A : [- -          -    -     - -   -  X    -         -   - -       - -  X   - -  -        -    -          -    -        -]
+S : [O dramaturgo Dias Gomes , que já teve problemas com a censura , se une a os fardados mais histéricos para decretar :]
+T : []
+CF829-5 : --------------------------------------------------------
+A : [- X   -  -        -       -]
+S : [« Foi um protesto moleque .]
+T : []
+CF829-6 : --------------------------------------------------------
+A : [-  X       X   X       -  -   -      -  -     - -]
+S : [Só poderia ter partido de uma cabeça de merda » .]
+T : []
+CF829-7 : --------------------------------------------------------
+A : [-  -            - -   - - -    -     - X      - X         -  X      - -    -    -    -     -  -   -           -    -       -]
+S : [Um psicanalista ( sic ) , José Nazar , sugere , acreditem se quiser , nada mais nada menos do que linchamento como punição .]
+T : []
+CF829-8 : --------------------------------------------------------
+A : [- -       -      -     -   X       -  - -            - -          - - - X       - -       -  - -       -  X     -  -    -       -    - -         -]
+S : [O jurista Miguel Reale Jr. prefere um « pessedebismo » pedagógico , a o aprovar a atitude de a polícia em detê- lo como exemplo para a juventude .]
+T : []
+CF830-1 : --------------------------------------------------------
+A : [- -            - X       -         -          - -      -         -  -    -  -   - -           -     - - X        - -     -  - -    -      - -    -             -]
+S : [A tumorectomia « garante sobrevida comparável e melhor qualidade de vida do que a mastectomia total » , escreveu a chefe de o novo estudo , Anna Lee-Feldstein .]
+T : []
+CF830-2 : --------------------------------------------------------
+A : [-          -  - -            -  -          -  -      - -   - X          - -        -  - -      -      -  - -       -  - -          -      -               - - - -    - - -]
+S : [Cientistas de a Universidade da Califórnia em Irvine ( EUA ) publicaram a pesquisa em a última edição de a revista de a Associação Médica Norte-americana , ( « Jama » ) .]
+T : []
+CF831-1 : --------------------------------------------------------
+A : [-   -    - - -        X    X       - -       -   -        - -     - -      - -      -        - -        - -        - -       - -        -    - -          - -      - -       -]
+S : [Com isso , o Cruzeiro deve começar a partida com Michelli , Magno , Derlan , Marcus Vinícius e Anderson ; Emiliano , Juliano e Anderson Leão ; Ricardinho , Nílson e Herbert .]
+T : []
+CF831-2 : --------------------------------------------------------
+A : [- -      X   X         -     -  -     -     -]
+S : [A equipe vem treinando junta há pouco tempo .]
+T : []
+CF831-3 : --------------------------------------------------------
+A : [- -        -      - -    -        -    X        -     - - -    - - -      -       -          - - -    -       - - -        -      X     X          -  - -     -  -  -]
+S : [O atacante Nílson e meia Anderson Leão chegaram agora a o time e o ponta- direita Ricardinho , o meia Juliano e o zagueiro Derlan foram promovidos em o final de 93 .]
+T : []
+CF831-4 : --------------------------------------------------------
+A : [X      X         - -      - -  - -  X -  -  -  -         -  - -        -   -   -          -  -  -      -  - -      -    - -      -]
+S : [Recém- promovido , Derlan , 17 , já é um de os destaques de o Cruzeiro por sua habilidade em as saídas de a defesa para o ataque .]
+T : []
+CF831-5 : --------------------------------------------------------
+A : [- -       X      -  - -     -  -   -     - - -  -        - X   -    - -      -  -        -]
+S : [O jogador chegou em o clube há dez meses e , em novembro , foi para a equipe de juniores .]
+T : []
+CF831-6 : --------------------------------------------------------
+A : [-      X      -  -      -    -    -      - -           -]
+S : [Derlan espera um grande jogo hoje contra o Corinthians :]
+T : []
+CF831-7 : --------------------------------------------------------
+A : [- X       -     -         -]
+S : [« Estamos muito motivados .]
+T : []
+CF831-8 : --------------------------------------------------------
+A : [- -    X   X     -     - -   X     X       -      X      X        - -    - - X      -]
+S : [A casa vai estar cheia e nós vamos mostrar porque viemos disputar a Copa » , afirma .]
+T : []
+CF831-9 : --------------------------------------------------------
+A : [-    - -      - - -     X X         -  - -        -]
+S : [Para o futuro , o plano é continuar em o Cruzeiro :]
+T : []
+CF831-10 : --------------------------------------------------------
+A : [- -   X     X     -     -     - X       - -    -      - -]
+S : [« Não quero subir muito agora e quebrar a cara depois . »]
+T : []
+CF832-1 : --------------------------------------------------------
+A : [-    -   -    -    X     -  - -    - -      -      X   -     -     -  -        - - -      -]
+S : [Como sua musa Iris gosta de o tema , Silvio Santos vai agora todos os weekends a o teatro .]
+T : []
+CF832-2 : --------------------------------------------------------
+A : [-      -  - -    -  -      -         - -  -    -     -         X       - - -        -  -        - -]
+S : [Depois de a peça de Leilah Assumpção , os dois foram juntinhos assitir a « Aluga-se Um Namorado » .]
+T : []
+CF832-3 : --------------------------------------------------------
+A : [X      -]
+S : [Amaram .]
+T : []
+CF834-1 : --------------------------------------------------------
+A : [X         -  -  - -      - -     -  -  -    ]
+S : [Aventure- se em o Alasca a bordo de um trenó]
+T : []
+CF834-2 : --------------------------------------------------------
+A : [-      -  X -      -     -  -     -  -         - -    ]
+S : [Viagem só é viável entre os meses de fevereiro e abril]
+T : []
+CF834-5 : --------------------------------------------------------
+A : [- -        -   -  X   -      -  X    X       -  -  -     X      -   -    X -          - - -  - -     -        -]
+S : [A sensação que se tem quando se está andando em um trenó puxado por cães é semelhante a a de o esqui aquático .]
+T : []
+CF834-6 : --------------------------------------------------------
+A : [-  - -     -        -         - X   -          - -     -     -   -  - -        -   -   X         -     -        - X   - -  X      -]
+S : [Em a minha primeira tentativa , fiz exatamente a mesma coisa que em a primeira vez que pratiquei esqui aquático : caí e me soltei .]
+T : []
+CF834-7 : --------------------------------------------------------
+A : [X        X    -    -       -     -   X        - X    - -      -]
+S : [Precisei cair mais algumas vezes até aprender a usar o breque .]
+T : []
+CF834-8 : --------------------------------------------------------
+A : [-    -  X       -    -          - -  -    -      -      -         -           -    -  X      -  -     -   - -      X    X     -  -        -   -     -      - X   -    -  -  -    -  -     -]
+S : [Além de dominar esta habilidade , as duas únicas coisas realmente necessárias para se viajar de trenó por o Alasca eram estar em razoável boa forma física e ter mais de 13 anos de idade .]
+T : []
+CF834-9 : --------------------------------------------------------
+A : [-  - -   -      - -         -  -    -     - -      -  -     -    -  -     - X             -     -         -]
+S : [Eu e meu marido , advogados de meia idade , apenas um pouco fora de forma , satisfazíamos essas condições .]
+T : []
+CF835-1 : --------------------------------------------------------
+A : [-     -  -       X        X       -  - -         -     - -         -  -   -  - -  -     -]
+S : [Todos os plínios costumam almoçar em o Esplanada Grill , refeições de US$ 40 , em média .]
+T : []
+CF835-2 : --------------------------------------------------------
+A : [-  -       X   -  - - -   -           - - - -       -  X     -   - -       -    -   - -]
+S : [Os motivos vão de o « bom atendimento » a a certeza de achar ali « pessoas como nós » .]
+T : []
+CF835-3 : --------------------------------------------------------
+A : [- -  X         - - -     -  - -   -      - -      -   -  X        -]
+S : [E se encontram a a noite em o bar Cabral , embora não se conheçam .]
+T : []
+CF835-4 : --------------------------------------------------------
+A : [-   X -          -]
+S : [Não é necessário .]
+T : []
+CF835-5 : --------------------------------------------------------
+A : [-  -       X   -  - -      - X      -  - -     -  -    -  -   -        -         -  - -       -      -      - -   -    -]
+S : [Os plínios têm em o Cabral , aberto em o final de 1992 em uma travessa escondida de a avenida Cidade Jardim , sua meca .]
+T : []
+CF835-6 : --------------------------------------------------------
+A : [-       -    - -  - -  -  -  -             -  - -   - X - -       -  - -     -]
+S : [Luciano Huck , 22 , um de os proprietários de o bar , é o profeta de a turma .]
+T : []
+CF835-8 : --------------------------------------------------------
+A : [X     -       - -       - -       - -  -  -     -     -  -   -  -   -     - - X     -   -  -  -           -   - -    X   -       -       - X   - -      -  X      X   - -]
+S : [Pedem cerveja , tequila e batidas , em um gasto médio de US$ 30 por noite , e falam mal de os mauricinhos que , como diz Rubinho Gimenes , são « cheios de querer ser » .]
+T : []
+CF835-10 : --------------------------------------------------------
+A : [-    X   -]
+S : [Eles são .]
+T : []
+CF835-11 : --------------------------------------------------------
+A : [- -     -        -  -       -    -       - -  - X -]
+S : [O jovem corretor de seguros Kiko Villela , 22 , é .]
+T : []
+CF835-12 : --------------------------------------------------------
+A : [X        -        -  - -    - -    X      -       - -   -        -       - -   - X    X    X    - -]
+S : [Cursando economia em a Faap , Kiko espera ansioso o seu telefone celular , que « está para sair » .]
+T : []
+CF835-13 : --------------------------------------------------------
+A : [- X -              -    -  -   - - X           -]
+S : [« É imprescindível hoje em dia » , regulamenta .]
+T : []
+CF835-14 : --------------------------------------------------------
+A : [- -            -          X   -   -      -            -  - -     -  -  -       - X         - -      - -       - - -       X         -     -      -  -     -]
+S : [O brinquedinho eletrônico tem uma função interessante em o mundo de os plínios : substitui o antigo « torpedo » , bilhete desferido entre jovens em bares .]
+T : []
+CF836-1 : --------------------------------------------------------
+A : [-          - X  -             -  -     -  -  -        -        -  -  -        -     - -  -        -  - -       -        - -      -  X        - -        -  -     -  - -          -     -]
+S : [Entretanto , há possibilidade de queda em as cotações externas em os próximos meses , em especial em o segundo semestre , quando se verifica a colheita de arroz em o hemisfério Norte .]
+T : []
+CF836-2 : --------------------------------------------------------
+A : [- -     -  -  -        -              X            - -        -  - -       - -      -    -      - -    -   X         -       -       -  -  -        -        -]
+S : [A queda de as cotações internacionais viabilizaria o ingresso de o produto a preços mais baixos , fato que impediria maiores avanços de as cotações internas .]
+T : []
+CF836-3 : --------------------------------------------------------
+A : [-       - -        -  - -     - - -        -        -  -     X    X      - -    -       -  -         -  -     -]
+S : [Segundo a previsão de a Conab , a produção nacional de arroz deve chegar a 10,6 milhões de toneladas de grãos .]
+T : []
+CF836-4 : --------------------------------------------------------
+A : [-  - -   -       - - -    X      -   -       -  -         -]
+S : [Em o ano passado , o país colheu 9,5 milhões de toneladas .]
+T : []
+CF837-1 : --------------------------------------------------------
+A : [-          -  - -       X     -  -   -    ]
+S : [Presidente de a Yashica morre em São Paulo]
+T : []
+CF837-3 : --------------------------------------------------------
+A : [- -        -          -  - -       -  - -      - -     -      - -  - X      -  -  -        -  -     -     -  -     -  -   -     -]
+S : [O diretor- presidente de a Yashica de o Brasil , Kazuo Tamura , 56 , morreu em um acidente de carro ontem de manhã em São Paulo .]
+T : []
+CF837-4 : --------------------------------------------------------
+A : [-   X       -       -  -       -  -  -    -          -  - -       -  -      - -  - -       - -      -       - - -      - -             - X      - -        -  - -     - X     -  -  -     -]
+S : [Ele dirigia sozinho um Santana 90 em alta velocidade em a avenida do Estado , em o Cambuci ( região central ) , quando , provavelmente , perdeu o controle de o carro e bateu em um poste .]
+T : []
+CF838-1 : --------------------------------------------------------
+A : [-            - -  -   - - -     - -   -       - X          -         -     -       -    - - -    - - -               -]
+S : [Isoladamente , os EUA e o Japão , por exemplo , praticaram alíquotas ainda menores 5,46 % e 4,79 % , respectivamente .]
+T : []
+CF838-2 : --------------------------------------------------------
+A : [- -            X      -   - -            -  -    X      -  -     - -    -     - - -        -     -     - -       -  - -      -  -    -]
+S : [O levantamento mostra que a Constituição de 1988 elevou de 15,27 % para 20,53 % a alíquota média sobre o consumo em o Brasil em 1989 .]
+T : []
+CF839-1 : --------------------------------------------------------
+A : [-        -  - -           X    -       -       ]
+S : [Ministro de a Aeronáutica cita questão salarial]
+T : []
+CF839-3 : --------------------------------------------------------
+A : [- -        -  - -           - -     -     -    - X          - -           -  - -   -  -       -     -    X        -  -  -  -            -         -  -  -         -]
+S : [O ministro de a Aeronáutica , Lélio Viana Lôbo , aproveitou a comemoração de o Dia do Soldado ontem para queixar- se de as dificuldades salariais de os militares .]
+T : []
+CF839-4 : --------------------------------------------------------
+A : [- X       -     -    -        - -  -  -        -         - -      - -        -  -   -  -            -       -  -      -      - -   - X   X       -           -  -       -   -    -     X         - - X     - -  -        X       - - -        -]
+S : [« Vivemos ainda dias difíceis , em um contexto econômico , social e político em que as necessidades básicas de nossas forças ( ... ) têm sofrido severamente as agruras que toda nação atravessa » , disse , em saudação enviada a o Exército .]
+T : []
+CF840-1 : --------------------------------------------------------
+A : [-      X         -  -         -  -         - -     -    ]
+S : [Brasil participa de coletânea em homenagem a Frank Zappa]
+T : []
+CF840-4 : --------------------------------------------------------
+A : [-  -   -  -     -     X   X   -   -   -        -  -       -]
+S : [Os fãs de Frank Zappa vão ter uma boa surpresa em janeiro .]
+T : []
+CF840-5 : --------------------------------------------------------
+A : [- -          -  -  -  -   -   -         -  -       -  -     X             -   -      -     -  -  -       -      - -        - -       - -          - -       - -      - -      - -      - -   - -     -   -       -          - -]
+S : [O lançamento de um CD com uma coletânea de músicas de Zappa interpretadas por bandas cover de os Estados Unidos , Alemanha , Bélgica , Inglaterra , Holanda , Itália , Suécia e Brasil ( com a banda The Central Scrutinize ) .]
+T : []
+CF840-6 : --------------------------------------------------------
+A : [- -     -          X      -  -    -    X     -   -         - -     -]
+S : [A banda brasileira nasceu em 1990 para fazer uma homenagem a Zappa .]
+T : []
+CF840-7 : --------------------------------------------------------
+A : [- X   -  -    -   -      X       -  - -   X          -]
+S : [« Era um cara que sempre apostou em o que acreditava .]
+T : []
+CF840-8 : --------------------------------------------------------
+A : [X      -      - -            -  -  -       - -      X       -    -  -   -     -       - - X     -    -   - -  - -         -  - -   -       -           -]
+S : [Lutava contra a bestialidade de as pessoas e sempre mostrou isso de uma forma bizarra » , conta Mano Bap , 29 , vocalista de a The Central Scrutinizer .]
+T : []
+CF841-1 : --------------------------------------------------------
+A : [-    - -       -  -       -  - -        - -         -        -   -           - - -   X  -     -         - -  X     X     X       -  -           -   X     X        - -]
+S : [Para o diretor de crédito de a Febraban , Christoph Heinrich Von Beackedorff , « não há novos tomadores , só estão sendo rolados os empréstimos que estão vencendo » .]
+T : []
+CF841-2 : --------------------------------------------------------
+A : [-     X       - -     -      -  -        -  -        -   - -     -  -    - -  -            -    - -         -     -  -           -  -  -      -  - -         -  -  -      -  -  -           -]
+S : [Ambos apontam o baixo volume de captação de recursos com a venda de CDBs a os investidores como o principal fator de insegurança de os bancos em a definição de os custos de os empréstimos .]
+T : []
+CF842-1 : --------------------------------------------------------
+A : [-  -    -    - -      -     -  - -     -  -      X     X         -  - -      -  - -        -       - -  -       -]
+S : [De esse modo , apenas parte de o fundo de viagem seria empregada em a compra de « traveler cheques » ou cédulas .]
+T : []
+CF842-2 : --------------------------------------------------------
+A : [- -        X       -  -   -         -   -           X           -   - -          -  - -      -      -  - -      -]
+S : [O restante ficaria em uma aplicação com aniversário coincidindo com o vencimento de a fatura mensal de o cartão .]
+T : []
+CF843-1 : --------------------------------------------------------
+A : [- -    X      X X   X           -      -       -   X     - - -       -  -       X      X    -   - -       X     - X    -   -    -         -      -  - -      -]
+S : [O caso passou a ser investigado porque pessoas que foram a o velório de Pereira teriam dito que o cadáver suava e teve sua pele arrepiada dentro de o caixão .]
+T : []
+CF843-2 : --------------------------------------------------------
+A : [- -       X   X        -   -   X      -      -      - X   - -       -      -  -   -     -  -       -]
+S : [A família foi alertada mas não chamou nenhum médico e fez o enterro depois de dez horas de velório .]
+T : []
+CF844-1 : --------------------------------------------------------
+A : [-  - -      - -     -  - -          -   X    -   -   - -   -    -       -              - - -             -  -      - -   -     X   X   -           - X   -     -         - -       -         -     -  -          - - - -     -        -  -      - -   X    -    -   -   -       -  - -      -   -    -  - -   - -   -  -     -  -         - - -   -  - -     - - - - -     -      - -      -        -]
+S : [Em o cinema , sorte de o espectador que terá não uma , mas duas mostras internacionais : a Internacional de Cinema , que agora vai ser competitiva e tem Pedro Almodóvar e Quentin Tarantino entre os convidados , e a Banco Nacional de Cinema , que será mais que uma amostra de o evento com sede em o Rio , com um ciclo em homenagem a o rei de o filme « B » , Roger Corman , também presente .]
+T : []
+CF844-2 : --------------------------------------------------------
+A : [-     X  -    -     -  -       -]
+S : [Shows há para todos os ouvidos .]
+T : []
+CF844-3 : --------------------------------------------------------
+A : [- -  -    -    -        X       -   -     - X         -   -     -          -   - -       -  - - -         -  -    - -     -     - X     -      -    - -           -  -    - -   - -  -  -       -       -]
+S : [O 9º Free Jazz Festival ampliou seu leque e programou uma noite trepidante sob o comando de o « godfather of soul » James Brown e cedeu espaço para a modernidade de Guru , US3 e de os Digable Planets .]
+T : []
+CF844-4 : --------------------------------------------------------
+A : [-    -  - -        - - -  -  -    X - -       -    -          -]
+S : [Fora de o festival , o De La Soul é a atração mais promissora .]
+T : []
+CF845-1 : --------------------------------------------------------
+A : [- -    -    X          -    - -  -  -    -       - X         -   -    X     X     -  -        -]
+S : [« Como eles aumentaram 6,28 % em as duas semanas , acertamos que eles iriam parar os aumentos .]
+T : []
+CF845-2 : --------------------------------------------------------
+A : [X     X         - -   X     -   -     -         -      - -]
+S : [Vamos verificar o que houve com essas matérias- primas . »]
+T : []
+CF845-3 : --------------------------------------------------------
+A : [-       X       -      - -          -          -  -         -  -        -]
+S : [Dallari recebeu também a Associação Brasileira da Indústria de Máquinas .]
+T : []
+CF845-4 : --------------------------------------------------------
+A : [- -        -      -  X       -  -        -   X      -  -   - - -    - -  - -     -  -      -        - -        - -   -     - -          -]
+S : [A entidade também se queixou de aumentos que variam de 5,5 % a 11,5 % em o custo de alguns fundidos , forjados , aço plano e rolamentos .]
+T : []
+CF846-1 : --------------------------------------------------------
+A : [-   - - -     -  -  -   - -    -     -   - -        X    -   -      -         -]
+S : [Foi a o final de um ano e três meses que o prefeito teve sua melhor avaliação .]
+T : []
+CF846-2 : --------------------------------------------------------
+A : [X       -  - -  -     - -   - -  - -  -    - -       - -  - -  -         -       -]
+S : [Recebeu 27 % de ótimo e bom , 30 % de ruim e péssimo e 42 % de avaliação regular .]
+T : []
+CF846-4 : --------------------------------------------------------
+A : [- -   -           -  -     -  -     -      X         -   - -    -  -   -   X         -   -           - - -           - X        -  -            -  -       -     - -    - -     -  - -   -         -]
+S : [A boa performance de Maluf em março último coincidiu com a fase em que ele anunciava sua candidatura a a presidência e investia em inaugurações de grandes obras , como o túnel de o rio Pinheiros .]
+T : []
+CF847-2 : --------------------------------------------------------
+A : [- -         -     -          -        -  -          -           -       X    X          -   -   -   -  - -       -  -         -]
+S : [A Gelaguela maior fabricante nacional de sobremesas individuais geladas está investindo US$ 200 mil em o sistema de franquias .]
+T : []
+CF847-3 : --------------------------------------------------------
+A : [- -       - -   X       -   - -      -  -  - X   X         -   -        -    -      -        -  - -         -          -]
+S : [A empresa , que faturou US$ 1 milhão em 93 , vai inaugurar até setembro mais quatro unidades de a Gelaguela Sobremesas .]
+T : []
+CF847-4 : --------------------------------------------------------
+A : [- -        X X          - -     -]
+S : [O objetivo é consolidar a marca .]
+T : []
+CF848-1 : --------------------------------------------------------
+A : [-    -    - -  -       - -   X       - -   X    X           -  -    -   -  -      -  -  -       -       -]
+S : [Esta taxa , no entanto , não reflete o que está acontecendo de fato com os preços em as últimas semanas .]
+T : []
+CF848-2 : --------------------------------------------------------
+A : [-    -      -  -       -  -        -  X      -          -  -        -  -      -  -    -    - -       -]
+S : [Isto porque os índices de inflação só captam totalmente as mudanças de preços 30 dias após o aumento .]
+T : []
+CF848-3 : --------------------------------------------------------
+A : [- -      X           - -     -  -      -       -  -       - -  -      -          -]
+S : [É sempre considerada a média de quatro semanas em relação a as quatro anteriores .]
+T : []
+CF848-4 : --------------------------------------------------------
+A : [- -      -  -     - - -    -    -      X      -]
+S : [A partir de agora , a taxa deve sempre recuar .]
+T : []
+CF848-5 : --------------------------------------------------------
+A : [-  -      X         -            -        -  -  -       -       -]
+S : [Os preços estiveram praticamente estáveis em as últimas semanas .]
+T : []
+CF848-6 : --------------------------------------------------------
+A : [-      -        - -           -  - -      -  -      -  -          -  - -    - X     -    -      -   -    -     - - - - - -]
+S : [Juarez Rizzieri , coordenador de o Índice de Preços ao Consumidor de a Fipe , prevê para agosto uma taxa entre 1 % e 2 % .]
+T : []
+CF892-3 : --------------------------------------------------------
+A : [X -  -   - -       -     -  - -        -             -       -      - X         -         -  -      -]
+S : [É de ele o segundo lugar de o Smirnoff International Fashion Awards , disputado anteontem em Dublin .]
+T : []
+CF893-2 : --------------------------------------------------------
+A : [- -          - X -   -       -  -      -          - -     -    - - - -            -  -  -         -  -          -]
+S : [« Alphaville » é uma mistura de ficção científica , filme noir , e a irreverência de as histórias em quadrinhos .]
+T : []
+CF893-3 : --------------------------------------------------------
+A : [- -        X     - -   -  -  -      -       - - -        -      -         -  -          - X          -   -  -       -          -   X     -          -  -         -  -    - -             -]
+S : [A história narra a ida de um agente secreto a a desumana cidade futurista de Alphaville , controlada por um cérebro eletrônico que baniu totalmente os conceitos de amor e solidariedade .]
+T : []
+CF893-4 : --------------------------------------------------------
+A : [-    X         - -        -         -  - -     - -      X        -     -   -          - - -          -]
+S : [Para construir o ambiente futurista de o filme , Godard recorreu quase que totalmente a a fotografia .]
+T : []
+CF893-5 : --------------------------------------------------------
+A : [- -      -  -     -       X         X           -     -  -   -      -      - -   X      - -       -  X      -          -        -  -        -]
+S : [A câmera de Raoul Coutard conseguiu transformar Paris em uma cidade gélida , sem contar a ousadia de montar sequências inteiras em negativo .]
+T : []
+CF893-6 : --------------------------------------------------------
+A : [- -                -  - -     -   X       -   -          -         - - -         -  - -         -           -]
+S : [O experimentalismo de o filme não esconde sua proposição simbólica , a alienação em a sociedade tecnológica .]
+T : []
+CF894-1 : --------------------------------------------------------
+A : [-         -  - -       -  - -    X       -      ]
+S : [Audiência em a Justiça de o Pará discute diploma]
+T : []
+CF894-3 : --------------------------------------------------------
+A : [-   -         -    -  - -  -     -  -       -  -        -  -     X      - -         -     - -               -  - -       -          -    - -         -  - -          -]
+S : [Uma audiência hoje em a 7ª Junta da Justiça do Trabalho em Belém reabre a discussão sobre a obrigatoriedade de o diploma específico para o exercício de o jornalismo .]
+T : []
+CF894-4 : --------------------------------------------------------
+A : [- -         -   -           -  - -    X     - -        -  -  -     -  -   -           -           - -   -   X   -     -             -  -          - -  -  -        -  -     -]
+S : [O Sindicato dos Jornalistas de o Pará exige a demissão de os cerca de 150 jornalistas irregulares ( que não têm curso universitário de Jornalismo ) de as empresas de Belém .]
+T : []
+CF895-1 : --------------------------------------------------------
+A : [-    - -      -   X   -        - -   X   X   -    -     - - -           X     X        -  -    -          -  -    -      - -   -   X         -      - -  -        -        -]
+S : [Como o Estado não tem recursos , nem vai ter para todos , o atendimento acaba deixando de fora justamente os mais pobres , que não conseguem acesso a os serviços públicos .]
+T : []
+CF895-2 : --------------------------------------------------------
+A : [- -        X -        -      X       - -   -       - - -          -  - -        - -  - -     - -  - -           -      -]
+S : [O problema é político porque envolve , por exemplo , a gratuidade de a educação , de a saúde , de a previdência mínima .]
+T : []
+CF895-3 : --------------------------------------------------------
+A : [X         - -        -      -  -        -    - -   X    X   -        - -           - -    -    - -     X -       X           -    X    X     -]
+S : [Excetuada a educação básica de primeiro grau , que deve ser gratuita e obrigatória , para todo o resto é preciso discriminar quem pode pagar .]
+T : []
+CF896-1 : --------------------------------------------------------
+A : [-     -  - -    - -         -          -  -         - -           - - -  -    - X       -   -    -       -  -           -]
+S : [Dados de o IBGE ( Instituto Brasileiro de Geografia e Estatística ) , de 1989 , mostram que 30,6 milhões de brasileiros .]
+T : []
+CF896-2 : --------------------------------------------------------
+A : [-  -  -        - -    -       X   -      - -    -       - -        -]
+S : [De os fumantes , 18,1 milhões são homens e 12,5 milhões , mulheres .]
+T : []
+CF896-3 : --------------------------------------------------------
+A : [- -     X    -     -  - -  -        -   -   - - -      - -     - - -  -]
+S : [O homem fuma entre 11 e 20 cigarros por dia e a mulher , entre 5 e 10 .]
+T : []
+CF897-1 : --------------------------------------------------------
+A : [-  X      -    -   X      -   ]
+S : [PF prende dois por cobrar ágio]
+T : []
+CF897-3 : --------------------------------------------------------
+A : [- -  - -       -       - X        -     -    -       -   X      -     -   -    -]
+S : [A PF ( Polícia Federal ) indiciou ontem duas pessoas por vender carro com ágio .]
+T : []
+CF897-4 : --------------------------------------------------------
+A : [X     X          - -    -  - -           -     -          - -        -         -     - - - -        -    -        - -  - -              -     -]
+S : [Foram indiciados o dono de a revendedora 3.000 Automóveis ( Leonardo Romanioli Filho ) e o vendedor Luís Silveira , de a concessionária Frame .]
+T : []
+CF897-5 : --------------------------------------------------------
+A : [-  -    X     X      -      - -       -    -          - -  - X   X        -   -     - -         -    -    -  - -      -  -  -       -       -]
+S : [Os dois foram presos quando o taxista José Fioravanti , 61 , foi entregar US$ 1.000 a Romanioli como ágio de a compra de um Santana Quantum .]
+T : []
+CF897-6 : --------------------------------------------------------
+A : [-   X      X            -  -    -       -  - -  -]
+S : [Ele estava acompanhados de três agentes de a PF .]
+T : []
+CF897-7 : --------------------------------------------------------
+A : [-  -  -    X   -   -     - -      -          -]
+S : [Um de eles era seu filho , Sérgio Fioravanti .]
+T : []
+CF898-1 : --------------------------------------------------------
+A : [-      X     -    -          ]
+S : [Tabela ganha mais informações]
+T : []
+CF898-3 : --------------------------------------------------------
+A : [- -      -  -    -      - - -      -   - -            -  -  -           -      -      X     - X       - -          -  - -          X       -  - -   -          -   - -     -   -  - -   -        -]
+S : [A partir de esta edição , a tabela com o levantamento de os indicadores Folha- Sebrae passa a incluir a comparação de a capacidade ocupada em o mês pesquisado com o mesmo mês em o ano anterior .]
+T : []
+CF898-4 : --------------------------------------------------------
+A : [- -   -  - -          -          X       X         - -        -  - -         -          -   - -          -  -       -        -]
+S : [O uso de a comparação anualizada permite verificar a variação de a atividade industrial sem a influência de fatores sazonais .]
+T : []
+CF898-5 : --------------------------------------------------------
+A : [-   - -        -  -    -    -    -           - - -      X    -    -        -]
+S : [Com a inclusão de mais esse dado comparativo , a tabela fica mais completa .]
+T : []
+CF898-6 : --------------------------------------------------------
+A : [-   X   -      -      -   -           -     -    -    -          -]
+S : [Ela tem também textos com explicações sobre cada item pesquisado .]
+T : []
+CF899-1 : --------------------------------------------------------
+A : [- -      -    -        -     - -      -  - -              -  -       X -  -   -   X       -        -  -     -  -         -   X      X            -   -  -        -  -        -      -  - -          -]
+S : [A versão mais corrente sobre o início de o enriquecimento de Quércia é de que ele comprou terrenos em áreas de periferia que seriam beneficiadas por os projetos de melhoria urbana de a Prefeitura .]
+T : []
+CF899-2 : --------------------------------------------------------
+A : [-  - -   -             - X        -  -     -      -   -      -        X            -  -       - -   X          -  -    -           -]
+S : [Em a sua administração , executou um plano viário com largas avenidas interligando os bairros , que provocaram um boom imobiliário .]
+T : []
+CF900-1 : --------------------------------------------------------
+A : [-       X   -   -    - -        -  -     - X      -   -    - -        - -     X    -  -   -    -]
+S : [Nicolau diz que hoje o produtor de leite C recebe US$ 0,22 , enquanto o custo está em US$ 0,24 .]
+T : []
+CF900-2 : --------------------------------------------------------
+A : [-       X        -  -          - X          -   - -         -]
+S : [Dallari orientou os produtores a negociarem com a indústria .]
+T : []
+CF901-1 : --------------------------------------------------------
+A : [-     -        X     X   X          -  -  -       -  -  -         - - -      X     X   X       - -    - -   X     -   -       - X      -     -   -  X          - X       - -      -]
+S : [Esses aspectos podem ser observados em os relatos de as pacientes : « quando tenho que arrumar a casa e não estou com vontade , escuto vozes que me incentivam a começar a tarefa .]
+T : []
+CF901-2 : --------------------------------------------------------
+A : [-      -  -  -     - -  -     X        - X     X       -         - -   X       X        - -   X       - -]
+S : [Depois de um tempo , as vozes aumentam e acabo ficando atordoada e não consigo terminar o que comecei » .]
+T : []
+CF901-3 : --------------------------------------------------------
+A : [-     -         -   X   -          -  -  -      - -    -    -  X     -   -             -     -  X       - X     -      - -     -   X   -  -     -  -      -           X         -    - -    -         -]
+S : [Estes problemas não são frequentes em os homens , pois além de terem uma possibilidade menor de casarem e terem filhos , esses não são os tipos de papéis socialmente esperados para o sexo masculino .]
+T : []
+CF902-2 : --------------------------------------------------------
+A : [- -           - X             -  -      - -       - X         -   -       -  -         -        -    -  -      -  - -     -  - -   -  -]
+S : [O restaurante , especializado em carnes e saladas , oferecerá uma garrafa de champanhe espanhol para os casais em a noite de o dia 12 .]
+T : []
+CF902-3 : --------------------------------------------------------
+A : [-    -   X      X     -       - -      - X      X     - -         -    -    -]
+S : [Quem não quiser beber durante o jantar , poderá levar o champanhe para casa .]
+T : []
+CF902-6 : --------------------------------------------------------
+A : [-       - X      -    ]
+S : [Cartões : aceita todos]
+T : []
+CF903-1 : --------------------------------------------------------
+A : [-  -          - - -     -   -        - -  -       - - -         X   -   -    -    -   X -  X         -   -      -]
+S : [Em entrevista a a Folha por telefone , de Londres , o estilista diz que moda hoje não é se preocupar com marcas :]
+T : []
+CF903-2 : --------------------------------------------------------
+A : [- -  -       X     X        -  - -    -   -  X    -  -     -  -  -      - -  -  -          - -  - -    -       -]
+S : [« As pessoas estão cansadas de o hype que se cria em torno de as roupas , de os estilistas e de o luxo abusivo .]
+T : []
+CF903-3 : --------------------------------------------------------
+A : [-        X -           -]
+S : [Conforto é fundamental .]
+T : []
+CF903-4 : --------------------------------------------------------
+A : [-  -   -  X       -   -    -]
+S : [Eu não me associo com moda .]
+T : []
+CF903-5 : --------------------------------------------------------
+A : [-    -   -     - -    X   -      -          - -]
+S : [Para mim roupa e moda são coisas diferentes » .]
+T : []
+CF904-1 : --------------------------------------------------------
+A : [-              - -         X      -       -   X         - - -      -    - -]
+S : [Desorganização e violência marcam torneio que consolida o ' efeito Copa ' .]
+T : []
+CF904-2 : --------------------------------------------------------
+A : [-       -  - -      -  -      - -           X        -       -          -  - X         -  - -       -  -  -  ]
+S : [Aumento em o número de passes e lançamentos aproxima futebol brasileiro de o praticado em o Mundial de os EUA]
+T : []
+CF904-5 : --------------------------------------------------------
+A : [-  -      -  -       -  - -      X     X           -    -   -    - -     -  -    - - -          -  -           -    -     -    -  X      - - -      -]
+S : [Os clubes de futebol de o Brasil estão valorizando cada vez mais a posse de bola e a utilização de lançamentos como armas para se chegar a o ataque .]
+T : []
+CF904-6 : --------------------------------------------------------
+A : [X - -   X         -  -            -  - -          -          - X         -     -   - -    -      -           -]
+S : [É o que confirmam as estatísticas de o Campeonato Brasileiro , encerrado ontem com o novo título palmeirense .]
+T : []
+CF905-1 : --------------------------------------------------------
+A : [-     -     X   X   - -         -    - -    -    - - -  -  -     -        -]
+S : [Emily Lloyd vai ser a desbocada punk « Tank Girl » , de os gibis ingleses .]
+T : []
+CF905-2 : --------------------------------------------------------
+A : [-     -  - -          - -         X       -  -        -  - -     -  - -  -      -   - -]
+S : [Ainda em a Inglaterra , Spielberg negocia os direitos de a série de « TV Doctor Who » .]
+T : []
+CF905-3 : --------------------------------------------------------
+A : [-     -        X    X      - - -         -  -  -      -      - -        -          - - -   X           - -   -      -  -  -     -  -  -    -]
+S : [Chris Columbus está ligado a a adaptação de os super- heróis « Quarteto Fantástico » , que inauguraram a era Marvel em os gibis há 30 anos .]
+T : []
+CF905-4 : --------------------------------------------------------
+A : [-   - -         -  -   - -       X       -   - -          -   X -     -]
+S : [Mas o orçamento de US$ 5 milhões insinua que a informação não é séria .]
+T : []
+CF905-5 : --------------------------------------------------------
+A : [X   -      -     -    - -        -  - -    - -        -    - - -   X    -  -        X         -   -    -      -  -     -    -]
+S : [São comuns casos como a filmagem de o gibi « Sargento Rock » , que teve os direitos comprados por Joel Silver há cinco anos .]
+T : []
+CF905-6 : --------------------------------------------------------
+A : [-      -              X   -           -    -    -         - X   X           -   -     -      -  -    -    - -   - -       -     X    -  - -     -]
+S : [Arnold Schwarzenegger deu entrevistas como ator principal , foi substituído por Bruce Willis há dois anos , mas o projeto nunca saiu de o papel .]
+T : []
+CF906-1 : --------------------------------------------------------
+A : [-  - -        -         - -       - -    X         -  -     -       -      - - -    -  -  -      -       -  - -       - - -     -]
+S : [Em a campanha eleitoral , Alencar e Nilo estiveram em lados opostos quanto a a ação de as Forças Armadas em o combate a o crime .]
+T : []
+CF906-2 : --------------------------------------------------------
+A : [-       X        - -      -  - -      -  -      - -   X     - -         -  -         -           -]
+S : [Alencar defendeu a adoção de o estado de defesa , que prevê a suspensão de garantias individuais .]
+T : []
+CF906-3 : --------------------------------------------------------
+A : [X      -  - -       -   - -  -  - -           -  -      -  - -          - -]
+S : [Trata- se , segundo ele , de um « instrumento de defesa de a democracia » .]
+T : []
+CF907-1 : --------------------------------------------------------
+A : [-  -         - -  -    -        -         -  -       -         - -     X         -  X      - -    -]
+S : [Ao contrário , em esta situação econômica de extrema gravidade , todos gostariam de ajudar o país .]
+T : []
+CF907-2 : --------------------------------------------------------
+A : [-    -    - -     - X -          -   - -     -     -       X      -   - - -             - -  - -       - -   X -          - -   -   X     X  - X        -  - -   - -   -        -         -  -     -]
+S : [Para isso , porém , é necessário que o nosso Banco Central busque não a « independência » de o Tesouro , que é impossível , mas que deixe de « quebrar- lo » com a sua política agressiva de juros .]
+T : []
+CF908-1 : --------------------------------------------------------
+A : [-        -  - -   -   -    X      -   -       ]
+S : [Promoção de o Dia das Mães começa com desfiles]
+T : []
+CF908-3 : --------------------------------------------------------
+A : [- -        -    -     -  X       -   -        -  -   -   -    -]
+S : [O shopping West Plaza já começou sua promoção de Dia das Mães .]
+T : []
+CF908-4 : --------------------------------------------------------
+A : [-           - X    X          -        -  -    -    -    -            -]
+S : [Diariamente , está promovendo desfiles de moda para seus consumidores .]
+T : []
+CF908-5 : --------------------------------------------------------
+A : [-  -        - -   -      - -     -  - -       -        - X     X        - -          - -        -  - -    -]
+S : [Os desfiles , com roupas a venda em o próprio shopping , visam orientar o consumidor a respeito de a moda .]
+T : []
+CF908-6 : --------------------------------------------------------
+A : [-          X       - - -          -  -  -        -]
+S : [Estilistas estarão a a disposição de os clientes .]
+T : []
+CF909-1 : --------------------------------------------------------
+A : [-       -   - -    X         -    - -      -  -        -            -  -          -          - -  -         -  -    -]
+S : [Segundo ele , isso aconteceu após a prisão de soldados venezuelanos em território brasileiro , em fevereiro de 1993 .]
+T : []
+CF909-2 : --------------------------------------------------------
+A : [- -      -  -    -         - -  -      -       -            X       X  X       -    -     -  - -         -   - -      -]
+S : [« Depois de esse incidente , as Forças Armadas venezuelanas tiveram de esfriar suas ações em a fronteira com o Brasil .]
+T : []
+CF909-3 : --------------------------------------------------------
+A : [- -      -        -  - -         X      X X         -   -  -      - - X         -   -  X     - -     -  -   - -  -    - X        -  -           - - X   -      -]
+S : [A Guarda Nacional de a Venezuela passou a conversar com os índios e a convencê- los de fazer o papel de ela , ou seja , reprimir os garimpeiros » , diz Altino .]
+T : []
+CF910-1 : --------------------------------------------------------
+A : [- -       -  -  -    -         -           X      -  -      -             - X        - - -   -]
+S : [A maioria de os bons jogadores brasileiros atuava em clubes profissionais , filiados a a FBF .]
+T : []
+CF910-2 : --------------------------------------------------------
+A : [-   X     -      -    -   -      -       - -    -]
+S : [Não houve acordo para uma trégua durante a Copa .]
+T : []
+CF910-3 : --------------------------------------------------------
+A : [- -       X   X        -           -   -  -         -]
+S : [A solução foi negociar diretamente com os jogadores .]
+T : []
+CF910-4 : --------------------------------------------------------
+A : [- -   X       -        - -     - - -        - -        -  -     - -   -     - - -     -      -]
+S : [A CBD aliciou Leônidas ( Vasco ) , Luizinho e Waldemar de Brito ( São Paulo ) , entre outros .]
+T : []
+CF911-1 : --------------------------------------------------------
+A : [X   -   -     -  -   -  -        X         -  -     - -    -  -   -]
+S : [Era uma época em que os cariocas imperavam em campo e fora de ele .]
+T : []
+CF911-2 : --------------------------------------------------------
+A : [-   -      -   - -       -     X          - -  - -       -  - -     -  - -    -        - - -       -     -      X        - -          -       -  -   -        -]
+S : [Por razões que a própria razão desconhece , em o sorteio de o local de o jogo decisivo , a bolinha quase sempre apontava o assustador estádio de São Januário .]
+T : []
+CF911-3 : --------------------------------------------------------
+A : [- -        -        X       -   -   -   -      - -  -   -   -     X        - - -          - -  -        -  -     -          -]
+S : [O torcedor paulista sonhava com uma era futura , em que São Paulo chegaria a a supremacia , se possível de forma arrasadora .]
+T : []
+CF911-4 : --------------------------------------------------------
+A : [X         -  -   -  -    - - -     -  X        - X        -       - -      - -               - -          -]
+S : [Passaram- se uns 50 anos e o sonho se realizou , trazendo alegria e também , inesperadamente , frustração .]
+T : []
+CF911-5 : --------------------------------------------------------
+A : [X       -     - -    - - -  -          -         -   X   -  -  -    -  -    - -    - -         -     - -  - -   -  - -      -    -]
+S : [Ficamos todos , isto é , os torcedores paulistas que vem de os idos de 1940 , como o americano médio , em o fim de a Guerra Fria .]
+T : []
+CF911-6 : --------------------------------------------------------
+A : [-  -   X  - -       -  - -   -    -        -]
+S : [Já não há o império de o mal para combater .]
+T : []
+CF911-7 : --------------------------------------------------------
+A : [-     - -        - -          - -   - -        X   -         -  - -       -]
+S : [Vasco , Botafogo , Fluminense e até o Flamengo são fantasmas de o passado .]
+T : []
+CF912-1 : --------------------------------------------------------
+A : [- -        X        -   - -        X     X       X       -]
+S : [O bombeiro suspeita que o golfinho tenha morrido afogado .]
+T : []
+CF912-2 : --------------------------------------------------------
+A : [-   X     X      X     -  -   -    -  -     -   -         -  X     - - -    -    X        -]
+S : [Ele teria ficado preso em uma rede de pesca sem condições de subir a a tona para respirar .]
+T : []
+CF912-3 : --------------------------------------------------------
+A : [-  -         X       -     - - -       - -      -  -        -       - -  - -   -    X      -  -      -  - -     -  - -        -]
+S : [Os bombeiros pediram ajuda a o Cebimar ( Centro de Biologia Marinha ) de a USP para apurar as causas de a morte de o golfinho .]
+T : []
+CF912-4 : --------------------------------------------------------
+A : [-   -  -   - - -          -  -             -   X     X        - -        -  - -     -]
+S : [Até as 17h , a Prefeitura de Caraguatatuba não havia retirado o golfinho de a praia .]
+T : []
+CF913-2 : --------------------------------------------------------
+A : [- -       X   X    - -   -    X        -        - X        -   -]
+S : [O governo vai usar a URV para corrigir impostos , garantiu FHC .]
+T : []
+CF913-3 : --------------------------------------------------------
+A : [- - -   X X         -   -    -       - - -  -  -  -       X - -     -  - -    -]
+S : [« A URV é produzida por três índices , e um de os índices é o mesmo de a Ufir .]
+T : []
+CF913-4 : --------------------------------------------------------
+A : [X   X   -        - -  -     - -      - - X        -]
+S : [Vai ter paridade , já desde o começo » , explicou .]
+T : []
+CF913-5 : --------------------------------------------------------
+A : [-      - -  -       -        - -   X     X       -  -   -    X      -         -       - -   X     -         -          -   - -         -]
+S : [Quanto a as tarifas públicas , não serão fixadas em URV para evitar reajustes diários , mas terão correções periódicas por o indexador .]
+T : []
+CF913-6 : --------------------------------------------------------
+A : [- -  - -     -  -     -  -        - - -          - X   X         - -     -  - -      -       -  - -   -      -    -  -   X     -   -]
+S : [« De o ponto de vista de proteção a o consumidor , vou reajustar o preço de a tarifa pública em o dia normal como se ela fosse URV .]
+T : []
+CF913-7 : --------------------------------------------------------
+A : [-  -    - -   - -     -    -  -  -       -      -     - - X     -]
+S : [Ou seja , por a média real de os últimos quatro meses » , disse .]
+T : []
+CF913-9 : --------------------------------------------------------
+A : [X     X            -      -    X       -   -  -    -    X       -    -          - X          - - -       -      -]
+S : [Serão beneficiados porque hoje demoram até 12 dias para receber seus benefícios , vinculados a o salário mínimo :]
+T : []
+CF913-10 : --------------------------------------------------------
+A : [- -    -       -  -           X      -      -]
+S : [« Onze milhões de aposentados ganham mínimo .]
+T : []
+CF913-11 : --------------------------------------------------------
+A : [-     X   X   -  -       -    - -   - -   X     - -        -      - -      - -  - -           - - -  - -        -    - -   - -  -  -  -]
+S : [Esses vão ter um aumento real , por o que disse o ministro Cutolo ( Sérgio , de a Previdência ) , em a passagem para a URV , de 17 $% .]
+T : []
+CF913-12 : --------------------------------------------------------
+A : [- -      X   X   -  -  -  - -]
+S : [E alguns vão ter de 30 $% » .]
+T : []
+CF913-13 : --------------------------------------------------------
+A : [-   X        - -         -     - -     -  -  -          - -   - -      -         - -]
+S : [Ele atribuiu a discussão sobre o valor de os benefícios a uma « ilusão monetária » .]
+T : []
+CF913-14 : --------------------------------------------------------
+A : [- -  -       X      -   X       -   -  - -   -  -    -      -    -     X -     -     - -]
+S : [« As pessoas pensam que recebem US$ 80 , mas 30 dias depois esse valor é muito menor » .]
+T : []
+CF914-1 : --------------------------------------------------------
+A : [X         - -     - -      X   - -     X         -]
+S : [Encerrada a festa , Maluly viu o rapaz esperando .]
+T : []
+CF914-2 : --------------------------------------------------------
+A : [- -        -  X         -]
+S : [O deputado se aproximou .]
+T : []
+CF914-3 : --------------------------------------------------------
+A : [-  X         -  -   -     -  - -      - -        -  ]
+S : [Eu precisava de uma ajuda de o senhor , deputado ...]
+T : []
+CF915-1 : --------------------------------------------------------
+A : [-        -       X   - -          ]
+S : [Príncipe Charles vai a inauguração]
+T : []
+CF915-2 : --------------------------------------------------------
+A : [- -        -       - -  - -     -     - X   -          -     - -  -  -      - -    - -  - -           -  - -    -      -  - -      -  -           -  -          - -       -  - -    -        -]
+S : [O Príncipe Charles , de o Reino Unido , fez respiração boca- a em um boneco ( foto ) em a inauguração de o novo prédio de o Centro de Ambulâncias de Wellington , capital de a Nova Zelândia .]
+T : []
+CF915-3 : --------------------------------------------------------
+A : [- -     -   X      -       -         -   X    -       - -      - X      X     -    -     -   - -   -  - -      -  -     -    -  - -        - - -    -]
+S : [O homem que atacou Charles anteontem não terá direito a fiança e ficará preso pelo menos até o fim de a visita de cinco dias de o príncipe a o país .]
+T : []
+CF915-4 : --------------------------------------------------------
+A : [-        - -       X       - -    -  -           -  - -        - -        -          - - -  - -       - -      -         - X         -     - -        -  - -        -    -   - -  - -    - -       -       -         - X        -   -  -   - - -   X     -         -         -   -      -  - -     -       -]
+S : [Lituânia e Ucrânia elogiam a Otan os presidentes de a Lituânia , Algirdas Zebrauskas , e de a Ucrânia , Leonid Kravtchuk , elogiaram ontem o programa de « Parceria pela Paz » de a Otan ( aliança militar ocidental , liderada por os EUA ) , que prevê operações conjuntas com países de o Leste Europeu .]
+T : []
+CF915-5 : --------------------------------------------------------
+A : [-       -    - -  -     -   - -       -   X   X      -  -        -   - -      -]
+S : [Segundo eles , os laços com a aliança não vão afetar as relações com a Rússia .]
+T : []
+CF916-1 : --------------------------------------------------------
+A : [-   X -       - -    X   -      - -   - -      X       - -      X     X     - -         -  -      - -]
+S : [Não é verdade , como diz Gusmão , que a missão enviada a Israel tenha feito « confronto de preços » .]
+T : []
+CF916-2 : --------------------------------------------------------
+A : [- -         -        -   X    -        -     -  -      -]
+S : [O relatório sigiloso não traz qualquer lista de preços .]
+T : []
+CF916-3 : --------------------------------------------------------
+A : [-  -          -  -                X     X          -   -  -           -       -      - -      -     - -  - -   - - -      -  - -     -]
+S : [As evidências de superfaturamento foram levantadas por os professores Armando Laganá e Márcio Rillo , de a USP , a pedido de a Folha .]
+T : []
+CF916-4 : --------------------------------------------------------
+A : [X           -  -           - - -  - X     X           -  -    -        -]
+S : [Sustentadas em depoimentos a a PF , foram confirmadas em três perícias .]
+T : []
+CF916-5 : --------------------------------------------------------
+A : [- -      -  -    - -   - -            -  -    -          - X         -                -  -   -  -]
+S : [A última de elas , com a participação de três cientistas , comprovou superfaturamento de 343 $% .]
+T : []
+CF917-1 : --------------------------------------------------------
+A : [-         X     -    -  -        ]
+S : [Cingapura acusa mais um americano]
+T : []
+CF917-2 : --------------------------------------------------------
+A : [-       -        - -  - -    - - X          -     - -  -        -  -         -    -   -         -          -]
+S : [Stephen Freehill , 16 ( foto ) , compareceu ontem a um tribunal de Cingapura para uma audiência preliminar .]
+T : []
+CF917-3 : --------------------------------------------------------
+A : [-   X X       -  -          -]
+S : [Ele é acusado de vandalismo .]
+T : []
+CF917-4 : --------------------------------------------------------
+A : [X    X   X         - - -      - -    -   -           -       -   - -  - X     -  - -     -       -]
+S : [Pode ser condenado a o açoite , como seu compatriota Michael Fay , 18 , preso em a mesma ocasião .]
+T : []
+CF917-5 : --------------------------------------------------------
+A : [-   X   X      -   -      -           - -     X      -    -  -      -]
+S : [Fay foi punido com quatro vergastadas e agora cumpre pena de prisão .]
+T : []
+CF917-6 : --------------------------------------------------------
+A : [-      -         X     -    -  - -  ]
+S : [Norte- iemenitas tomam base de o sul]
+T : []
+CF917-7 : --------------------------------------------------------
+A : [-      -  - -     -  - -     X          - -      -  - -    -     -  -  -    - - -         -  -  -    -         -]
+S : [Forças de o norte de o Iêmen anunciaram a tomada de a base aérea de Al Anad , a principal de os sul- iemenitas .]
+T : []
+CF917-8 : --------------------------------------------------------
+A : [- -    X    - -      -  -  -  -    - - -       -  - -   -]
+S : [A base fica a apenas 50 km de Áden , a capital de o sul .]
+T : []
+CF917-9 : --------------------------------------------------------
+A : [- -      X       -  -  -    -   -     -  -  -         -     - -          -   -         -     - -   -    -]
+S : [A guerra começou há 13 dias por causa de um confronto entre o presidente Ali Abdulllah Saleh e seu vice .]
+T : []
+CF918-1 : --------------------------------------------------------
+A : [- -   X     -     -  X       -   -]
+S : [« Não damos conta de atendê- los .]
+T : []
+CF918-2 : --------------------------------------------------------
+A : [- -        - - -      -  -     X   -          - - X   -        -  -  -       - -      -   -  - -       -   -          -]
+S : [A resposta a o pedido de ajuda foi gigantesca » , diz Virginia de la Guardia , porta- voz de a Médicos Sem Fronteiras .]
+T : []
+CF918-3 : --------------------------------------------------------
+A : [- -       -  -  -           X   -      -]
+S : [A maioria de os voluntários são jovens .]
+T : []
+CF918-4 : --------------------------------------------------------
+A : [-   - X       -       -      - -          -  - -       -     - - X -            -  -  -         -  -          -   X            -  -     -    -             - -]
+S : [Mas , comenta Enrique Albizu , presidente de a Medicus Mundi , « é precisamente em as situações de emergência que necessitamos de gente mais especializada » .]
+T : []
+CF919-1 : --------------------------------------------------------
+A : [-       -    X   -   X     -       - - -     ]
+S : [Técnico Pepe diz que falta talento a o Santos]
+T : []
+CF919-3 : --------------------------------------------------------
+A : [- -      X     X X     -  -     -     -    - -       -    - -       -      - -     -     - -  -     -  - -        -       -  - -          -        -]
+S : [O Santos volta a viver um clima tenso para o próximo jogo , domingo contra o Santo André , em busca de a primeira vitória em o Campeonato Paulista .]
+T : []
+CF919-4 : --------------------------------------------------------
+A : [- -       -    - X        -   - -       -  - -    -  - -      -  - - - -   -      -         - X     - -   X    X        -             - -       - -  -         - -]
+S : [O técnico Pepe , irritado com a atuação de o time em o empate em 1 a 1 com Ituano anteontem , disse « que está faltando tranquilidade e talento a os jogadores » .]
+T : []
+CF919-5 : --------------------------------------------------------
+A : [-    -     X   -         -   - -            -    X      - -   -        - X       -  -  -  -        -]
+S : [Pepe ainda tem esperança que o centroavante Guga renove o seu contrato , vencido em 31 de dezembro .]
+T : []
+CF919-6 : --------------------------------------------------------
+A : [- -  -    X         - X   X   X   -      - -  - -         -   X       -    - - X       -]
+S : [« Se isso acontecer , tem que ser rápido , de o contrário não adianta mais » , afirmou .]
+T : []
+CF920-1 : --------------------------------------------------------
+A : [X     -    X -          ]
+S : [Saiba quem é Barrichello]
+T : []
+CF920-3 : --------------------------------------------------------
+A : [X       -  - -   -  -  -    -  -    - -  -   -     - -      -         -           X       -   -        -               -  - -    - -  -  - -      X   -     -       -      -  - -       -        -]
+S : [Nascido em o dia 23 de maio de 1972 , em São Paulo , Rubens Gonçalves Barrichello começou sua carreira automobilística em o kart , em 81 , quando foi vice- campeão júnior de a capital paulista .]
+T : []
+CF920-4 : --------------------------------------------------------
+A : [-  -    - -    X      -        -       -         - -           -  - -    - -           X        - -          -          -  -       -    - X          -  -      -     -]
+S : [Em 1989 , após ganhar diversos títulos paulistas e brasileiros em o kart , Barrichello disputou o Campeonato Brasileiro de Fórmula Ford , terminando em quarto lugar .]
+T : []
+CF921-1 : --------------------------------------------------------
+A : [-      -       -         X -      -  - -       -  -    ]
+S : [Marcos Augusto Gonçalves é editor de a Revista da Folha]
+T : []
+CF922-1 : --------------------------------------------------------
+A : [-     X     -    -     -  -        -  - - ]
+S : [Blitz multa duas lojas em shopping em o DF]
+T : []
+CF922-2 : --------------------------------------------------------
+A : [- -     - -                -        -  -             - X      -      -    -     -  - -    -        - -  -        -]
+S : [A Sunab ( Superintendência Nacional de Abastecimento ) autuou sábado duas lojas de o ParK Shopping , em Brasília .]
+T : []
+CF922-3 : --------------------------------------------------------
+A : [-     -   X            -      -  -        X        -  -  -        -]
+S : [Ambas não apresentavam preços de produtos expostos em as vitrines .]
+T : []
+CF922-4 : --------------------------------------------------------
+A : [- -     -    -        -   X            - -            X    X      - -  -   -   -]
+S : [A multa para lojistas que descumprirem a determinação pode chegar a R$ 128 mil .]
+T : []
+CF922-5 : --------------------------------------------------------
+A : [-       -       -    - -               -  - -     - -  X     X         -   -      -  -    - -    -     - -      -  - -   -]
+S : [Segundo Eduardo Lago , superintendente de o orgão , já foram aplicadas 400 multas em todo o país desde o início de o mês .]
+T : []
+CF922-6 : --------------------------------------------------------
+A : [-        X         -     -  - -     ]
+S : [Mercedes produzirá carro em a França]
+T : []
+CF922-7 : --------------------------------------------------------
+A : [- -         -    X    X        - -     -  -        -  - -      - -     -        -   -      -  - -          -  -  -        -  - -     - -  -             - -      -  - -     -  - -      -]
+S : [A Mercedes- Benz deve instalar a linha de montagem de o Swatch , carro compacto com design de o fabricante de os relógios de a marca , em Sarreguemines , cidade de o norte de a França .]
+T : []
+CF922-8 : --------------------------------------------------------
+A : [- -       X   X      -   - -        -  - -         -     - -  - -      -      -     -]
+S : [A decisão foi tomada por o conselho de a montadora alemã , em a última sexta- feira .]
+T : []
+CF922-9 : --------------------------------------------------------
+A : [- -       -       X    X     -    - -   -  -]
+S : [O anúncio oficial será feito após o dia 20 .]
+T : []
+CF923-1 : --------------------------------------------------------
+A : [-           X         - -       - X         -   - -         - X          X        - -        -]
+S : [Beckenbauer aconselha o lateral a conversar com o treinador , procurando reverter a situação .]
+T : []
+CF923-2 : --------------------------------------------------------
+A : [- -     -   X   X   -    -     -  -  -        -  - -    X      - -]
+S : [« Senão ele vai ser alvo fácil de as críticas se o time perder . »]
+T : []
+CF923-3 : --------------------------------------------------------
+A : [- -    -         - -       X       -   X   X     -     -       - - -       - -      X   X         -]
+S : [O caso Effenberg , jogador cortado por ter feito gesto obsceno a a torcida , também foi criticado .]
+T : []
+CF923-4 : --------------------------------------------------------
+A : [- X   -  -   -     -        -]
+S : [« Foi um ato muito rigoroso .]
+T : []
+CF923-5 : --------------------------------------------------------
+A : [-     - -  -         X   X       -   -      -    -   -         - -   -   -      - -]
+S : [Agora , os jogadores vão cumprir sua função mais por obrigação e não por prazer . »]
+T : []
+CF923-6 : --------------------------------------------------------
+A : [-      -  -  -        - -     X       X      - -         -]
+S : [Apesar de as críticas , Vogts prefere manter a discrição :]
+T : []
+CF923-7 : --------------------------------------------------------
+A : [- -           X   - -       -  X     - -   X      - -]
+S : [« Beckenbauer tem o direito de dizer o que quiser » .]
+T : []
+CF924-1 : --------------------------------------------------------
+A : [X      -  - -      -  - -      -  -  - -     -     -  - -           -           - -        - -            -          -  X        -  X          -   -    -         X        -   - -       -      -        -  -  -   - - -     X     -      -    -   -   - -   -       - -  -       -        -  -          -]
+S : [Rodado em o início de a década de 50 , época áurea de o macarthismo perseguição a artistas e intelectuais comunistas ou acusados de simpatizar com essa ideologia liderada por o senador Joseph McCarthy em os EUA , o filme ganha versão para CD- ROM , com direito a um extenso material de referência .]
+T : []
+CF924-3 : --------------------------------------------------------
+A : [- -     X     -   -     -  -        -  -   -      -  - -    -      - -  -  -   -]
+S : [O filme narra uma greve de mineiros em uma cidade de o Novo México , em os EUA .]
+T : []
+CF924-4 : --------------------------------------------------------
+A : [X  -   -     -        - -   -     - -         - -     -   -    - -     -  X      -]
+S : [Há uma trama paralela , com Ramon e Esperanza , casal que após a greve se separa .]
+T : []
+CF925-1 : --------------------------------------------------------
+A : [-    -    X         - -    X      X         -  -         -   -    X         -  - -      -]
+S : [Caso isso ocorresse , eles seriam colocados em liberdade tão logo chegassem em o Canadá .]
+T : []
+CF925-2 : --------------------------------------------------------
+A : [-         -  - -          -   -        -          -  - -      - X      -   - -     - X  -     - - -     - -     -  -       - X     -   - -         -  - -      -     - -         - -         -           -    -   -  -          X     X        -]
+S : [Documento de o Ministério das Relações Exteriores de o Canadá , obtido por a Folha , dá apoio a o lobby ( grupo de pressão ) feito por a Embaixada de o Canadá junto a senadores e deputados brasileiros para que os canadenses sejam expulsos .]
+T : []
+CF926-1 : --------------------------------------------------------
+A : [-       - -      - X   -         - -       -  - -         -      -         -     - -            -  -      -    -   -  X        -   -        -        - - -  - -      -]
+S : [Segundo o cônsul , era crescente a pressão de o Congresso norte- americano sobre o Departamento de Estado para que se adotasse uma política idêntica a a de o Brasil .]
+T : []
+CF926-2 : --------------------------------------------------------
+A : [- X        X   -  -     -   -   -    -]
+S : [« Queremos dar um visto por dez anos .]
+T : []
+CF926-3 : --------------------------------------------------------
+A : [X -    -         -  -   -   -      -      -    -]
+S : [É mais eficiente do que por apenas quatro anos .]
+T : []
+CF926-4 : --------------------------------------------------------
+A : [X       X     X        - -  -     - - X       - -     -    -    -     -]
+S : [Estamos sendo forçados , ao invés , a reduzir o prazo para três meses .]
+T : []
+CF926-5 : --------------------------------------------------------
+A : [X -   -        -       - - X     -      - -  -]
+S : [É uma situação absurda » , disse Taylor , 49 .]
+T : []
+CF927-1 : --------------------------------------------------------
+A : [-  -       -   X      -  -  -      -  -    X   - -    -      -       -    - -   X      X    -    - -        - -  -   - -         -  - -      X     - -   -    -]
+S : [Um jogador que estava em os planos de Pepe era o meia Carlos Alberto Dias , que acabou indo para o Flamengo , já que a diretoria de o Santos vetou o seu nome .]
+T : []
+CF927-2 : --------------------------------------------------------
+A : [-  - -       - -    - - -     -       -  - -        -  - -      - X -      - -     -         -  -  -    -     -]
+S : [Em o momento , Pelé , o maior jogador de a história de a equipe , é também a maior esperança de um time forte .]
+T : []
+CF927-3 : --------------------------------------------------------
+A : [-       -    -      - - -     -         X      -  - -     - -  -     -  -   -       -   - -  - -      - X       -  - -      -]
+S : [Durante esta semana , o agora dirigente esteve em o Japão , em busca de uma empresa que , em o futuro , invista em o Santos .]
+T : []
+CF927-4 : --------------------------------------------------------
+A : [-            - - -    X      -  -        -  -   -  -   -       -   - -       - -   X    -   - -   -  - -          -        -]
+S : [Recentemente , o time firmou um contrato de US$ 50 mil mensais com a Lousano , que vale até o fim de o Campeonato Paulista .]
+T : []
+CF928-1 : --------------------------------------------------------
+A : [- -       -  -  -        X        -   -     -  -  -           -  - -       - -  - -            - -            -   - -        -  - -         -       -]
+S : [O aumento de as despesas acontece até mesmo em os ministérios de a Fazenda e de o Planejamento , responsáveis por a montagem de o Orçamento federal .]
+T : []
+CF928-2 : --------------------------------------------------------
+A : [-  - -          -  -       - -  -        X         -  -   -    -       -  -  -    -   -    -       -  -  - -  -    -     -  - -]
+S : [Em o Ministério da Fazenda , as despesas crescerão de US$ 1,13 bilhões em 93 para US$ 1,36 bilhões em 94 ( ou mais 20,07 $% ) .]
+T : []
+CF928-3 : --------------------------------------------------------
+A : [-  - -            - - -           X -  -     -  - X        -  -        -  -   -    -       -  -  -    -   -      -       -  -  -]
+S : [Em o Planejamento , o crescimento é de 33,19 $% , elevando as despesas de US$ 87,6 milhões em 93 para US$ 116,69 milhões em 94 .]
+T : []
+CF928-5 : --------------------------------------------------------
+A : [- -        -       -          - -     - X        -     -       -  - -       -     - -        -            -  -       - -        -  -    - X            -   - -       X         -  -         -           -  -   -   -       -  -    -       -]
+S : [O deputado Aloizio Mercadante ( PT/SP ) divulgou ontem números de o Tesouro sobre a execução orçamentária de janeiro a novembro de 1993 , demonstrando que o governo conseguiu um superávit operacional de US$ 9,2 bilhões em este período .]
+T : []
+CF929-1 : --------------------------------------------------------
+A : [-      X      - -     -  -  -  - -       - - -     X   X         -      X    -       -  - -          -     -          - -    - -      X        -       -    -      -]
+S : [Embora esteja a quase 40 km de o estádio , o hotel foi escolhido porque está próximo de a California State University , onde o Brasil treinará durante esta semana .]
+T : []
+CF929-2 : --------------------------------------------------------
+A : [- -       - - -     X   - -  -     - -     -  -        - -]
+S : [A chegada a o hotel foi a as 12h10 ( 16h10 em Brasília ) .]
+T : []
+CF929-3 : --------------------------------------------------------
+A : [-    - -         X     -           -    -  -       -]
+S : [Toda a delegação subiu diretamente para os quartos .]
+T : []
+CF929-4 : --------------------------------------------------------
+A : [-  -         - -        -   X       -   - -        -]
+S : [Os jogadores e Parreira não falaram com a imprensa .]
+T : []
+CF930-1 : --------------------------------------------------------
+A : [-    X         - -            - - -    -    -    -  -        -  -       X      -   -      -]
+S : [Para estimular a participação , a cada dois dias de trabalho as meninas ganham uma boneca .]
+T : []
+CF930-2 : --------------------------------------------------------
+A : [- -         -         -  -     X        -  -  -    -   -            -        -]
+S : [A República Movimento de Emaús trabalha há 20 anos com adolescentes carentes .]
+T : []
+CF931-2 : --------------------------------------------------------
+A : [-     -  -       - - -             -  - -         -        -  - -       X   X          -  -     -   - -               -  - -        - -  -     -  -    -     - -   X        - -          -  -       -   - -     -]
+S : [Cheia de energia , a interpretação de a Orquestra Estadual de a Hungria vem amortecida um pouco por a artificialidade de a gravação , de quase 15 anos atrás , mas compensa a sonoridade de estúdio com o vigor .]
+T : []
+CF931-3 : --------------------------------------------------------
+A : [- -        -    X -   -       -  -           -  - -    -  -         - -   X -     -    -   -       -  -   - -      -  -      -]
+S : [A Sinfonia toda é uma espécie de demonização de a Nona de Beethoven , que é muito mais seu assunto do que o Fausto de Goethe .]
+T : []
+CF931-4 : --------------------------------------------------------
+A : [-  -    -      -  - -           - -         -  -         -     X -  -    -          - -   -        -  - -    -  -           - -        - -       -]
+S : [Em isto também em a resistência e repetição de Beethoven Liszt é um foco importante , com reflexos em a obra de Tchaikovsky , Scriabin e Strauss .]
+T : []
+CF931-5 : --------------------------------------------------------
+A : [-   X       X     -          -     -    -  -          - X          -         - -  X   -    -     - -      -  X   -  -    -     -  -       -]
+S : [Não poderia haver realização maior para um compositor : substituir Beethoven , ou ter pelo menos a ilusão de ser um novo ponto de partida .]
+T : []
+CF932-1 : --------------------------------------------------------
+A : [-    -     -      - -  - -          -  - -     -      -        -       - - -   -  X    X     -    -  -    -  -           - -]
+S : [Para Simon Franco , 55 , presidente de a Simon Franco Recursos Humanos , « não se pode jogar fora 15 anos de experiência » .]
+T : []
+CF932-2 : --------------------------------------------------------
+A : [-       -   - -        -   X    X         -   X    X       -   -        -  -      -   - -           -  -   -       -       -]
+S : [Segundo ele , Carvalho não está avaliando que pode ampliar seu espectro de opções sem a necessidade de uma mudança radical .]
+T : []
+CF933-1 : --------------------------------------------------------
+A : [-   -          -   X      - -        -    -        ]
+S : [Lei brasileira não proíbe a gravidez pós- menopausa]
+T : []
+CF933-4 : --------------------------------------------------------
+A : [- -          -         X    X             -  - -      -     -        -  -    - -      -   -       X     X    X        -    -    -     -]
+S : [A reprodução assistida está regulamentada em o Brasil desde novembro de 1992 , embora sua prática tenha sido iniciada oito anos antes .]
+T : []
+CF933-5 : --------------------------------------------------------
+A : [X            -   - -        -       -  -        - -   - - -  -      -      X     X          -  -  -  -      -      - -       -      - -      - -      - -   -       -]
+S : [Determinadas por o Conselho Federal de Medicina ( CFM ) , as normas éticas foram inspiradas em as de outros países , Estados Unidos , França e Itália , por exemplo .]
+T : []
+CF933-6 : --------------------------------------------------------
+A : [-   - -    -  -     -      - -  -       -  -  -         -       X        -  -       -  -     -             -]
+S : [Mas , como em esses países , os avanços em as pesquisas médicas tornaram os códigos de ética ultrapassados .]
+T : []
+CF933-7 : --------------------------------------------------------
+A : [- -             -  - -        -    -         - - -   -  -      -  -     -         - X    -     - - -    - - X   -        -    -         -]
+S : [A possibilidade de a gravidez pós- menopausa e o uso de óvulos de fetos abortados ( veja texto a a pág. 6 ) são exemplos mais gritantes .]
+T : []
+CF933-8 : --------------------------------------------------------
+A : [- X       -  -    -  -     -              - - X     - - -     -       -        -       -    - -       -  - -   -]
+S : [« Ficaram de fora de nossa regulamentação » , disse a a Folha Antonio Henrique Pedrosa Neto , diretor de o CFM .]
+T : []
+CF933-9 : --------------------------------------------------------
+A : [-   X       - -  -       - -   -    -     - - -        -    -         X    -      -  -    -         - -]
+S : [Ele afirmou , no entanto , que pelo menos a « gravidez pós- menopausa será objeto de nova resolução » .]
+T : []
+CF934-1 : --------------------------------------------------------
+A : [-      X   X       X           -  - -  ]
+S : [Homens são achados amordaçados em o Rio]
+T : []
+CF934-2 : --------------------------------------------------------
+A : [-       -     X         -    -      -         - -           - -  -     -        - -  -  -       -  - -      -    -        - -    -     - -]
+S : [Polícia Civil encontrou dois homens amarrados , amordaçados e de olhos vendados , em um barraco de a favela Nova Brasília ( zona norte ) .]
+T : []
+CF934-3 : --------------------------------------------------------
+A : [-     -       - -      -       -   -      X        X   X    X            -   -           - -   -  X      X          -   -         -]
+S : [Mauro Pereira e Gilson Paulino dos Santos disseram ter sido sequestrados por traficantes , que os teriam confundido com policiais .]
+T : []
+CF934-4 : --------------------------------------------------------
+A : [-       X   X         - -     -  -      -  - -  ]
+S : [Fiscais são recebidos a tiros em favela de o Rio]
+T : []
+CF934-5 : --------------------------------------------------------
+A : [-       -  - -        -        -         - -   -  - -        -  -      X     X         - -     -     - - -     -  - -    -  -    - -          - -    -     -  - -   - -]
+S : [Fiscais de o Tribunal Regional Eleitoral e PMs de o Batalhão de Choque foram recebidos a tiros ontem a a tarde em a Vila do João , Manguinhos ( zona norte de o Rio ) .]
+T : []
+CF934-6 : --------------------------------------------------------
+A : [-  -       X       -          -         -]
+S : [Os fiscais retirar propaganda irregular .]
+T : []
+CF934-7 : --------------------------------------------------------
+A : [-  - -        - X      -       -         -  -     - -  -]
+S : [Em o tiroteio , morreu Adriano Herculano da Silva , 18 .]
+T : []
+CF935-1 : --------------------------------------------------------
+A : [- -         X    X         -   - -         -      -       - -  - X        -  -    -    -  -  -       -      -]
+S : [O casamento será realizado por o reverendo Onaldo Pereira , 38 , ordenado há oito anos em os Estados Unidos .]
+T : []
+CF935-2 : --------------------------------------------------------
+A : [- -      X -           -  - -      -   - -          -         -      - X       -  - -        -  -    -]
+S : [O pastor é responsável em o Brasil por a Comunidade Pacifista Cristã , fundada em a Alemanha em 1708 .]
+T : []
+CF936-1 : --------------------------------------------------------
+A : [-        X    -    - X    -   -      -  - ]
+S : [Feminino bate Cuba e fica com título em PE]
+T : []
+CF936-3 : --------------------------------------------------------
+A : [- -       -          -        -  -        X - -      -  - -       -             -  -        - -  -            -        X         -  -      - -  - - -   X      -   - -            -  -  -        -  -    - -         - -         -]
+S : [A seleção brasileira feminina de basquete é a campeã de o Torneio Internacional de Basquete , um quadrangular amistoso disputado em Recife ( PE ) e que contou com a participação de as seleções de Cuba , Argentina e Eslovênia .]
+T : []
+CF936-4 : --------------------------------------------------------
+A : [- -    X         -   - -       -      -      -  -   X     -   - -      - - X        -         - - -     -  - -     - -     -       -  -    -   -   - -  - -  - -  -  - -        -     - -]
+S : [O time comandado por o técnico Miguel Ângelo da Luz ficou com o título a o derrotar anteontem a a noite em a final a forte seleção de Cuba por 115 a 93 ( 54 a 44 em o primeiro tempo ) .]
+T : []
+CF936-5 : --------------------------------------------------------
+A : [- -        -  - -    X   -         - -   X      -  -      -]
+S : [A cestinha de o jogo foi Hortência , que marcou 38 pontos .]
+T : []
+CF937-1 : --------------------------------------------------------
+A : [-    -  - -       -  - -     - X            -  - -      - -     -   - - -    -     - -            -         -  -      -]
+S : [Além de a fazenda de o Sabiá , participaram de o leilão a Terra Boa e a Mata Velha , tradicionais criadoras de nelore .]
+T : []
+CF937-2 : --------------------------------------------------------
+A : [- -         -        -  - -     X   - -    -      - X           -    X   -       -  -             -  -        - -   X   X       -   -    -   -    -]
+S : [O principal destaque em a pista foi a vaca Santya , selecionada para ser doadora em transferência de embriões , que foi vendida por 40,2 mil URVs .]
+T : []
+CF937-3 : --------------------------------------------------------
+A : [-     -  - -     -       - -   X    -      - X   X              -   -   -       - - -  -]
+S : [Filha de o touro Chummak , ela está prenha e foi comercializada com uma bezerra a o pé .]
+T : []
+CF938-1 : --------------------------------------------------------
+A : [- - -     -      X -      -  -     -  -        - -   -           -    - - X      - -       -  - -         -]
+S : [« A Times Square é também um ponto de encontro e uma alternativa teen » , afirma o diretor de a Multiplan .]
+T : []
+CF938-3 : --------------------------------------------------------
+A : [-    -        - - -      X          -   -    -         -    -  -     -  -            -  -  -         -]
+S : [Para Spinelli , o espaço representa uma nova tendência para as áreas de conveniência de os shoppings .]
+T : []
+CF939-1 : --------------------------------------------------------
+A : [-     -      -    X -   -     -   - -         X     X         -    - -     X  -     -     -]
+S : [Paula Toller Isso é uma coisa que a gravadora vinha sugerindo para a gente há muito tempo .]
+T : []
+CF939-2 : --------------------------------------------------------
+A : [X        -  - -     - X          X     -      -        - X     -  -    -       -]
+S : [Gostamos de a idéia , resolvemos pegar velhos sucessos e fazer em este formato .]
+T : []
+CF939-3 : --------------------------------------------------------
+A : [-         -         -  X        -   - -     -    -  -   -]
+S : [Gravações acústicas se encaixam com o nosso tipo de som .]
+T : []
+CF939-4 : --------------------------------------------------------
+A : [-      X       -       -    -      -]
+S : [Sempre tivemos canções mais lentas .]
+T : []
+CF939-5 : --------------------------------------------------------
+A : [-     -         - -     -      X    -       -   X   -    X     -  - -      -]
+S : [Bruno Fortunato A gente sempre teve músicas que dão para tocar em o violão .]
+T : []
+CF940-1 : --------------------------------------------------------
+A : [- -        X -        - -    -     X   X          -      - -       -          -    -         - -   -         -             -]
+S : [A intenção é louvável e esta Folha tem denunciado sempre a ciranda financeira como obstáculo a uma autêntica estabilização .]
+T : []
+CF940-2 : --------------------------------------------------------
+A : [- -       - - -     X          -    X     - -       -          - -          - X        -          -  -         -         -]
+S : [O momento e a forma escolhidos para mudar o sistema financeiro , entretanto , dependem fortemente de variáveis políticas .]
+T : []
+CF941-2 : --------------------------------------------------------
+A : [X    -  -      -  - -          -  -           -  -        -  -       -    X            - -       -  -              -  - -       -   -]
+S : [Está em estudo em o Ministério da Previdência um conjunto de medidas para desestimular o aumento de aposentadorias em o próximo ano .]
+T : []
+CF941-3 : --------------------------------------------------------
+A : [-    X     X          - -      - -    -           - - -         -      -  - -     -              -]
+S : [Elas serão oferecidas a Itamar , como alternativa a a propalada quebra de o caixa previdenciário .]
+T : []
+CF941-5 : --------------------------------------------------------
+A : [X      -  -         - -  - -      - - -            -  - -        -  - -       - -         -        - -  - -       -   X      -  - -       -     -     -  - -     -         -]
+S : [Causou má impressão , em a quarta , a participação de o ministro de a Justiça , Alexandre Dupeyrat , em a reunião que tratou de o projeto sobre abuso de o poder econômico .]
+T : []
+CF941-7 : --------------------------------------------------------
+A : [X      -        - X   -    -   -    -        - X    -     -  - -   -]
+S : [Chegou atrasado , foi duro com seus críticos e saiu antes de o fim .]
+T : []
+CF942-2 : --------------------------------------------------------
+A : [-  - -     -  -        - - -     -    - -  -    -       - -       X   - -     -  -   -     - -   -     -     - -     -     - -   X    -    X     -  -  -     -]
+S : [Em « Olhos de Serpente » ( Snake Eyes ) de Abel Ferrara , Madonna faz o papel de ela mesma : uma falsa atriz , falsa loira , que paga para estar em um filme .]
+T : []
+CF942-3 : --------------------------------------------------------
+A : [X -  -     -   -      -       -  - -      -]
+S : [É de longe sua melhor atuação em o cinema .]
+T : []
+CF942-4 : --------------------------------------------------------
+A : [-       X   - -         -      -      -    X           - -   -     - - -  - -       -   X   -  - -     -     -   -          -     -]
+S : [Ferrara põe o excelente Harvey Keitel para interpretar o seu papel : o de o diretor que faz de a falsa loira uma verdadeira atriz .]
+T : []
+CF942-5 : --------------------------------------------------------
+A : [- -     -  -        - X - -     -      -  - -     -      -  - -     -]
+S : [« Olhos de Serpente » é o filme dentro de o filme dentro de o filme .]
+T : []
+CF942-6 : --------------------------------------------------------
+A : [-     - -      -      - X      - -        -  -  -     -  -     -        -  -     - -       - -     -     - -]
+S : [Eddie ( Harvey Keitel ) dirige a história de um casal de ricos drogados em crise ( Madonna e James Russo ) .]
+T : []
+CF942-7 : --------------------------------------------------------
+A : [-     -      X    -  -     -   -   -      - X            -   - -      -  -    -       - - -   X       - - -        -  - -     - -   X    -    -   X      - -       X -         -  - -     -  -        - - -]
+S : [Eddie também está em crise com sua mulher ( interpretada por a mulher de Abel Ferrara ) e não resiste a a tentação de a atriz , que paga para ele filmar ( Madonna é produtora de « Olhos de Serpente » ) .]
+T : []
+CF943-1 : --------------------------------------------------------
+A : [-    - -            X    - -      - X    X     - -     -       -     -  - -     -    -  -  -        - - X         -  -   -  -       X     -  -         -]
+S : [Caso o tetracampeão seja o Brasil ( seja feita a vossa vontade assim em a Terra como em os gramados ) , confirma- se que os últimos serão os primeiros .]
+T : []
+CF943-2 : --------------------------------------------------------
+A : [X  - -  -  -    -     -             -  - -    - - -    X     -       -     -      -  -   - -      -]
+S : [Vi , em um jogo quase inacreditável de a Copa , o Eire jogar futebol muito melhor do que a Itália .]
+T : []
+CF943-3 : --------------------------------------------------------
+A : [X      -   - - - -]
+S : [Venceu por 1 a 0 .]
+T : []
+CF943-4 : --------------------------------------------------------
+A : [-  X       - -    -       -  - -       - -   - -          -      X       X       - - -    -]
+S : [Já bastava , para orgulho de a Irlanda , que a Inglaterra sequer tivesse chegado a a Copa .]
+T : []
+CF944-1 : --------------------------------------------------------
+A : [-   - -  - -         -          -   - -        X      -   -     -    -]
+S : [Mas é em a Republica Dominicana que o cruzeiro atinge seu ponto alto .]
+T : []
+CF944-2 : --------------------------------------------------------
+A : [- -     X      -  -   -     - -      -   - -   -  X     -         -  -  -     -           -]
+S : [O navio ancora em uma praia , Serena Cay , que se torna exclusiva de os 1.600 passageiros .]
+T : []
+CF944-3 : --------------------------------------------------------
+A : [-  - -     X  -      -                - -         - -            -  -          -]
+S : [Em a areia há apenas espreguiçadeiras , coqueiros e barraquinhas de artesanato .]
+T : []
+CF944-4 : --------------------------------------------------------
+A : [- -   X -          -]
+S : [O mar é cristalino .]
+T : []
+CF944-5 : --------------------------------------------------------
+A : [-    X      - X   -  -        -   - -      -     - -    -  -     -]
+S : [Quem quiser , vai em excursão até o resort local , Casa de Campo .]
+T : []
+CF945-2 : --------------------------------------------------------
+A : [-      -  -         X        -  - -         -  -        - - -   -          -  X        - X        - -   -       -]
+S : [Quando os jogadores souberam de a investida de Clemente , o ala Goicoechea se aprestou a defender o seu patrono :]
+T : []
+CF945-3 : --------------------------------------------------------
+A : [- X        -   -    - -     - -      -      - -      - -]
+S : [« Chegamos até aqui , claro , também graças a Cruyff » .]
+T : []
+CF945-4 : --------------------------------------------------------
+A : [-  -       X         -  -    -       -]
+S : [Só Salinas discordou de essa posição .]
+T : []
+CF946-1 : --------------------------------------------------------
+A : [-  -  -   -         -  - -     -         - -      -  X    -    -  - -        -]
+S : [De os dez cestinhas de a atual temporada , apenas um joga fora de o garrafão .]
+T : []
+CF946-2 : --------------------------------------------------------
+A : [-  -  -     -         -           - -      X   -          -]
+S : [De os cinco primeiros artilheiros , quatro são superpivôs .]
+T : []
+CF946-3 : --------------------------------------------------------
+A : [-     -    X       -    -     -  -           -]
+S : [Todos eles estarão esta noite em Minneapolis .]
+T : []
+CF946-4 : --------------------------------------------------------
+A : [-      -          -    -       -   X        -          - -     - - -    -         -     -  -        -]
+S : [Chance imperdível para aqueles que apreciam enterradas , tocos e a mais primitiva troca de porradas .]
+T : []
+CF946-5 : --------------------------------------------------------
+A : [- -   -   X       - - -                -  - -       -      X           -      X        - -        -       -  - -        -      -         -]
+S : [A NBA nem existia e o profissionalismo em o esporte apenas engatinhava quando apareceu o primeiro gigante de o basquete norte- americano .]
+T : []
+CF947-1 : --------------------------------------------------------
+A : [-  -     -  - -        -            -  - -        -   X    -  -    -       -             -  - -        -         - - -     - -          - -           -     -  - -    -      -     - - -   -      -  - -       - -           -  - -        -  -       -     -      -  -     -]
+S : [Em torno de o gabinete presidencial em o Planalto ele quer os dois maiores colaboradores em a campanha eleitoral : o amigo , empresário e secretário- geral de o PSDB Sérgio Motta e o ex- reitor de a Unicamp e coordenador de o programa de governo Paulo Renato de Souza .]
+T : []
+CF947-2 : --------------------------------------------------------
+A : [-       X   -   - -      -    -   -       X   X       -              -  -     -  -  -        -]
+S : [Cardoso diz que a frente para sua eleição foi formada exclusivamente em torno de um programa .]
+T : []
+CF948-1 : --------------------------------------------------------
+A : [- -      X   -      - -   -       X - -     -     -]
+S : [« Cantor tem vários ; mas cantora é a Maria Carey »]
+T : []
+CF948-3 : --------------------------------------------------------
+A : [- -    X   -      - -   -     X - -     -     -]
+S : [« Ator tem vários , mas atriz é a Irene Papas »]
+T : []
+CF949-1 : --------------------------------------------------------
+A : [- - -      X -    -         -  X         -   X     -    X         -    - -         -          -   -    -     - - X   -     -       - -  - -          -  -    -        -]
+S : [« O número é mais alarmante se pensarmos que daria para abastecer toda a população brasileira por oito meses » , diz Dalmo Rosalen , de a Secretaria do Meio Ambiente .]
+T : []
+CF949-2 : --------------------------------------------------------
+A : [X  -       -   X         -         -  -            -  -    -]
+S : [Há cidades que enfrentam programas de racionamento de água .]
+T : []
+CF949-3 : --------------------------------------------------------
+A : [-  -       X - -     -  - -    -  -          - - -   -           - -        -  -   -     - -]
+S : [Um exemplo é a bacia de o Vale do Piracicaba ( a 170 quilômetros a noroeste de São Paulo ) .]
+T : []
+CF950-1 : --------------------------------------------------------
+A : [-     -    X     X             -     -  -      - -     -   -             -   X     X         -  X     X           -  -         -  -        - - -          -]
+S : [Flach Hoje estão estabelecidas penas de prisão , mesmo que eventualmente não sejam cumpridas ou sejam convertidas em prestação de serviços a a comunidade .]
+T : []
+CF950-2 : --------------------------------------------------------
+A : [-   -  X       -   -       -  X     - -    -     - -          - -  -       -   X               - -         -  - -      -        -]
+S : [Mas eu imagino que deveria se dotar , pelo menos o Judiciário , de medidas que possibilitassem a concessão de o perdão judicial .]
+T : []
+CF950-4 : --------------------------------------------------------
+A : [-     -  - -       -  -  -      - -  X        -    -   -       -  -        - -  -     -]
+S : [Flach Em o terreno de as idéias , eu priorizo como uma questão de educação e de saúde .]
+T : []
+CF950-5 : --------------------------------------------------------
+A : [-  X     -     X          -  X         -  -          -           -]
+S : [Eu estou muito preocupado em estimular as atividades preventivas .]
+T : []
+CF950-6 : --------------------------------------------------------
+A : [-     -           X -  -       -   X        -  - -     -   -    -   -      - X           -  -  -             -           -]
+S : [Nossa preocupação é um projeto que estimule em o jovem uma vida sem drogas , promovendo- se um comportamento construtivo .]
+T : []
+CF951-1 : --------------------------------------------------------
+A : [-       -        X       -       -  -    -   ]
+S : [Tenista francesa elimina Arantxa em Nova York]
+T : []
+CF951-2 : --------------------------------------------------------
+A : [-     -      X     - -        -        -  - -       -  - -     -       ]
+S : [Julie Halard causa a primeira surpresa de o Masters de o tênis feminino]
+T : []
+CF951-4 : --------------------------------------------------------
+A : [- -         -       -       - -       -   -      -          -  -    -         - X   X         -  - -        -     -  - -        -     -       -  -    -    - -   X     -  -  -        -         -  - -   -]
+S : [A espanhola Arantxa Sanchez , tenista com mlehor desempenho em esta temporada , foi eliminada em a primeira rodad de o Virginia Slims Masters em Nova York , que reúne as 16 melhores jogadoras de o ano .]
+T : []
+CF951-5 : --------------------------------------------------------
+A : [-       - -  - -  - -       -       - X      -  -  -    -         -    - -        -     -      -   -   - -   - -   - -   -   -  - -    -     -        -]
+S : [Sanchez , nº 2 de o ranking mundial , perdeu em um jogo dramático para a francesa Julie Halard por 6/2 , 1/6 e 7/6 , com 7/2 em o tie- break decisivo .]
+T : []
+CF951-6 : --------------------------------------------------------
+A : [-  - -   -       -  - -       - -      X   X         -   - -       -  - -       -      -      -]
+S : [Em a 22ª posição de o ranking , Halard foi empurrada por o público em o Madison Square Garden .]
+T : []
