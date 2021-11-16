@@ -40,7 +40,7 @@ import org.xml.sax.InputSource;
 
 public class SplitTest {
 
-	private static String ROOT_DIR = "C:\\Users\\Paulo.Berlanga\\git-nlp\\";
+	private static String ROOT_DIR = "C:\\Users\\Paulo.Berlanga\\git-nlp\\chunks\\";
 
 	private static String XML_CF_PATH = ROOT_DIR + "nlp-np\\src\\test\\xml\\Bosque_CF_8.0.SimTreeML.xml";
 	private static String XML_CP_PATH = ROOT_DIR + "nlp-np\\src\\test\\xml\\Bosque_CP_8.0.SimTreeML.xml";

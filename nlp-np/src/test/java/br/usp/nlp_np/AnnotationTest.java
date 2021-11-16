@@ -39,7 +39,7 @@ import org.xml.sax.InputSource;
 
 public class AnnotationTest {
 
-	private static String ROOT_DIR = "C:\\Users\\Paulo.Berlanga\\git-nlp\\";
+	private static String ROOT_DIR = "C:\\Users\\Paulo.Berlanga\\git-nlp\\chunks\\";
 
 	private static String XML_TRAIN_PATH = ROOT_DIR + "nlp-np\\src\\test\\xml\\train.xml";
 	private static String OUTPUT_TRAIN_PATH = ROOT_DIR + "nlp-np\\src\\test\\txt\\train_annotated.txt";
@@ -104,7 +104,7 @@ public class AnnotationTest {
         		transformer.transform(new DOMSource(node), new StreamResult(writer));
 
         		try {
-            		if (AnnotationTest.containsChunk(writer.toString(), outputFilePath, notProcessedIds)) {
+            		if (AnnotationTest.containsChunk(writer.toString(), outputFilePath, notProcessedIds, dataset)) {
                 		x++;
             		} else {
                 		y++;
@@ -125,7 +125,7 @@ public class AnnotationTest {
     	}
     }
 
-    private static boolean containsChunk(String xml, String outputFilePath, List<String> notProcessedIds) throws Exception {    	
+    private static boolean containsChunk(String xml, String outputFilePath, List<String> notProcessedIds, String dataset) throws Exception {    	
     	String[] source = AnnotationTest.collectSourceInArray(xml);
     	String sourceId = source[0].trim() + source[1].trim();
 
@@ -144,13 +144,23 @@ public class AnnotationTest {
     			AnnotationTest.write("T", chunkTokens.toString(), outputFilePath);
     			return true;
     		} else {
-    			notProcessedIds.add(sourceId);
+    			AnnotationTest.storeNotProcessed(xml, sourceId, notProcessedIds, dataset);
     			throw new Exception();
     		}
     	} catch (IndexOutOfBoundsException ex) {
-			notProcessedIds.add(sourceId);
+			AnnotationTest.storeNotProcessed(xml, sourceId, notProcessedIds, dataset);
+			throw new Exception();
+    	} catch (Exception e) {
+			AnnotationTest.storeNotProcessed(xml, sourceId, notProcessedIds, dataset);
 			throw new Exception();
     	}
+    }
+
+    private static void storeNotProcessed(String xml, String sourceId, List<String> notProcessedIds, String dataset) throws Exception {
+		notProcessedIds.add(sourceId);
+//		if (dataset.equals("teste")) {
+//			System.out.println("sent_collection.append('" + AnnotationTest.collectSourceInString(xml).replace(sourceId, "").replace("'", "").trim() + "') # " + sourceId);
+//		}
     }
 
     private static void write(String info, String text, String outputFilePath) throws IOException {
@@ -217,8 +227,7 @@ public class AnnotationTest {
 
     	XPathExpression tree = null;
     	if (onlyChunks) {
-    		tree = xPath.compile("//tree[@cat='vp']/t/text()"); // Definir expressão XPath aqui...
-//    		tree = xPath.compile("//tree[@cat='np']/t/text() | //tree[@cat='adjp']/t/text()"); // Definir expressão XPath aqui...
+    		tree = xPath.compile("//tree[@cat='np']/t/text() | //tree[@cat='adjp']/t/text()"); // Definir expressão XPath aqui...
     	} else {
         	tree = xPath.compile("//tree//t/text() | //tree//punct/@ort");
     	}
